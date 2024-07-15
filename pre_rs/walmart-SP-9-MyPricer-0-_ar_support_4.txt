@@ -1,0 +1,2 @@
+"-96.456538|24:00|2163 W C 48|US|07:00|87123|Southaven Supercenter|https://www.walmart.com/store/758/americus-ga/details|28.301788|Millington|309-836-3311"
+"-84.481231|24:00|401 Ontario Ave|US|00:00|72949|Muskogee Supercenter|https://www.walmart.com/store/850/albuquerque-nm/details|36.639045|Ripley|309-836-3311"

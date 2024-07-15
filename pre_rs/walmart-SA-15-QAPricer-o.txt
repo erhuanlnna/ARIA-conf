@@ -1,0 +1,57 @@
+175,"662-332-9026","Greenville Supercenter",-91.0438728
+406,"903-455-1792","Greenville Supercenter",-96.106315
+607,"864-295-3181","Greenville Supercenter",-82.453847
+608,"864-297-3031","Greenville Supercenter",-82.28115
+650,"423-639-8181","Greeneville Supercenter",-82.759393
+684,"662-453-4656","Greenwood Supercenter",-90.221433
+735,"620-792-3632","Great Bend Supercenter",-98.7872
+865,"765-653-2481","Greencastle Supercenter",-86.823489
+938,"970-330-1452","Greeley Supercenter",-104.719081
+1027,"662-229-0114","Grenada Supercenter",-89.837398
+1091,"317-462-8850","Greenfield Supercenter",-85.766655
+1130,"812-663-3434","Greensburg Supercenter",-85.474983
+1319,"252-355-2441","Greenville Supercenter",-77.387548
+1324,"864-229-2232","Greenwood Supercenter",-82.192386
+1337,"414-529-0455","Greenfield Supercenter",-88.044234
+1350,"520-625-3808","Green Valley Supercenter",-110.982594
+1376,"561-966-3101","Greenacres Supercenter",-80.142537
+1392,"920-499-9897","Green Bay Supercenter",-88.090801
+1402,"334-382-2655","Greenville Supercenter",-86.647223
+1432,"336-282-6754","Greensboro Supercenter",-79.855475
+1549,"585-227-0720","Greece Store",-77.724256
+1772,"336-292-5070","Greensboro Supercenter",-79.90087
+1840,"920-465-1333","Green Bay Supercenter",-87.970999
+1961,"937-547-9644","Greenville Supercenter",-84.617221
+1980,"724-830-2440","Greensburg Supercenter",-79.5813259
+2219,"864-214-8700","Greenville Neighborhood Market",-82.355327
+2306,"406-761-5426","Great Falls Supercenter",-111.296587
+2497,"724-589-0211","Greenville Supercenter",-80.358976
+2505,"864-877-1928","Greer Supercenter",-82.206339
+2886,"503-492-4725","Gresham Neighborhood Market",-122.407839
+2896,"864-605-6039","Greenville Supercenter",-82.4779256
+2925,"479-996-8500","Greenwood Supercenter",-94.296655
+3004,"616-754-3062","Greenville Supercenter",-85.290091
+3101,"317-885-9059","Greenwood Supercenter",-86.08009
+3267,"336-375-5445","Greensboro Supercenter",-79.756949
+3453,"864-655-6422","Greer Neighborhood Market",-82.2478204
+3639,"864-605-6309","Greenville Neighborhood Market",-82.4311012
+3644,"903-259-5293","Greenville Neighborhood Market",-96.108249
+3727,"864-288-8081","Greenville Supercenter",-82.263765
+3733,"402-881-3530","Gretna Supercenter",-96.16569
+3813,"336-895-5010","Greensboro Neighborhood Market",-79.848981
+3841,"970-353-4231","Greeley Supercenter",-104.754675
+3879,"504-249-7148","Gretna Neighborhood Market",-90.053832
+4029,"585-957-7382","Greece Supercenter",-77.643554
+4065,"336-370-0775","Greensboro Supercenter",-79.799652
+4126,"336-291-0567","Greensboro Neighborhood Market",-79.770824
+4196,"317-851-1102","Greenwood Supercenter",-86.162378
+4234,"503-405-1478","Gresham Neighborhood Market",-122.47217
+4261,"414-978-9016","Greendale Supercenter",-88.011026
+4318,"561-964-6337","Greenacres Neighborhood Market",-80.147642
+4379,"252-917-6286","Greenville Supercenter",-77.3060069
+4468,"336-291-4969","Greensboro Neighborhood Market",-79.886256
+4523,"864-321-6028","Greenwood Supercenter",-82.132247
+4575,"406-770-6083","Great Falls Supercenter",-111.218821
+4579,"252-917-6165","Greenville Neighborhood Market",-77.431884
+4618,"501-287-6001","Greenbrier Neighborhood Market",-92.389561
+4623,"252-917-6190","Greenville Neighborhood Market",-77.357858

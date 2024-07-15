@@ -1,0 +1,7 @@
+52,-71.01322,"06:00","Rochester Supercenter",43.333921
+126,-76.975137,"00:00","Rochester Supercenter",44.07697
+139,-96.461769,"08:00","Rockwall Supercenter",32.902041
+377,-77.812272,"00:00","Rocky Mount Supercenter",35.978113
+709,-89.687013,"06:00","Rock Falls Store",41.763311
+900,-80.842668,"06:00","Rockwall Neighborhood Market",32.931345
+951,-97.03214,"00:00","Rockdale Supercenter",30.642342

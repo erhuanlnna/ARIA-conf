@@ -1,0 +1,2 @@
+"NE|Hastings|3803 Osborne Dr W|68901|Hastings Supercenter|402-462-6000|40.624235|https://www.walmart.com/store/1460/hastings-ne/details|-98.385789"
+"MN|Hastings|1752 No. Frontage|55033|Hastings Supercenter|651-438-2400|44.74111|https://www.walmart.com/store/1472/hastings-mn/details|-92.89188"

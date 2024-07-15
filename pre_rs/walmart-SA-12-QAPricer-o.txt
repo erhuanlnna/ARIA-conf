@@ -1,0 +1,951 @@
+151,"Abingdon","VA",24211
+357,"Sumter","SC",29150
+374,"Anderson","SC",29621
+483,"Sumter","SC",29150
+489,"Murphy","NC",28906
+547,"Surfside Beach","SC",29575
+558,"Conway","SC",29526
+587,"Orangeburg","SC",29118
+592,"Lake City","SC",29560
+595,"Newberry","SC",29108
+596,"Georgetown","SC",29440
+597,"Dillon","SC",29536
+598,"Union","SC",29379
+599,"Easley","SC",29640
+600,"Summerville","SC",29485
+601,"Florence","SC",29501
+603,"Camden","SC",29020
+607,"Greenville","SC",29611
+608,"Greenville","SC",29607
+609,"Gaffney","SC",29341
+610,"Cheraw","SC",29520
+611,"Myrtle Beach","SC",29572
+612,"Anderson","SC",29624
+617,"Big Stone Gap","VA",24219
+840,"Monroe","NC",28110
+843,"Lexington","SC",29072
+905,"Hickory","NC",28602
+965,"Rockingham","NC",28379
+970,"Manning","SC",29102
+977,"Galax","VA",24333
+981,"Concord","NC",28027
+986,"Shelby","NC",28152
+988,"Forest City","NC",28043
+989,"Summerville","SC",29483
+991,"Mount Airy","NC",27030
+999,"Spartanburg","SC",29301
+1012,"Morganton","NC",28655
+1014,"Lenoir","NC",28645
+1044,"Aberdeen","NC",28315
+1047,"Mocksville","NC",27028
+1079,"Wadesboro","NC",28170
+1081,"Asheboro","NC",27203
+1082,"Taylorsville","NC",28681
+1083,"Laurens","SC",29360
+1085,"Albemarle","NC",28001
+1087,"Hartsville","SC",29550
+1097,"Moncks Corner","SC",29461
+1105,"Lumberton","NC",28358
+1113,"Columbia","SC",29212
+1115,"Elizabethtown","NC",28337
+1125,"Arden","NC",28704
+1131,"West Columbia","SC",29169
+1137,"Mooresville","NC",28117
+1142,"Hillsborough","NC",27278
+1146,"Rocky Mount","NC",27804
+1157,"Lincolnton","NC",28092
+1166,"Franklin","NC",28734
+1184,"Goldsboro","NC",27534
+1185,"Fayetteville","NC",28303
+1187,"Erwin","NC",28339
+1191,"Hendersonville","NC",28792
+1192,"Martinsville","VA",24112
+1199,"Laurinburg","NC",28352
+1205,"Fayetteville","NC",28311
+1211,"Whiteville","NC",28472
+1225,"Spartanburg","SC",29307
+1226,"Burlington","NC",27215
+1227,"Roxboro","NC",27573
+1228,"Columbia","SC",29209
+1233,"Christiansburg","VA",24073
+1234,"Wilkesboro","NC",28697
+1238,"Jacksonville","NC",28546
+1241,"New Bern","NC",28562
+1242,"Norton","VA",24273
+1244,"Roanoke","VA",24014
+1250,"Salem","VA",24153
+1252,"Spring Lake","NC",28390
+1258,"Asheville","NC",28805
+1262,"Smithfield","NC",27577
+1264,"Lexington","NC",27292
+1276,"Lexington","VA",24450
+1278,"Marion","VA",24354
+1279,"Columbia","SC",29223
+1281,"Elkin","NC",28621
+1283,"Staunton","VA",24401
+1285,"South Boston","VA",24592
+1286,"Beckley","WV",25801
+1287,"Lynchburg","VA",24502
+1288,"Wilmington","NC",28412
+1291,"Washington","NC",27889
+1292,"Morehead City","NC",28557
+1297,"Walterboro","SC",29488
+1298,"Wallace","NC",28466
+1299,"Fayetteville","WV",25840
+1302,"North Charleston","SC",29406
+1313,"Raleigh","NC",27603
+1319,"Greenville","NC",27834
+1324,"Greenwood","SC",29649
+1334,"Gastonia","NC",28056
+1335,"Wilmington","NC",28403
+1341,"Bedford","VA",24523
+1343,"Winchester","VA",22601
+1361,"Colonial Heights","VA",23834
+1390,"Ripley","WV",25271
+1391,"Charlotte","NC",28226
+1405,"Charlotte","NC",28273
+1407,"Danville","VA",24540
+1418,"Summersville","WV",26651
+1431,"Farmville","VA",23901
+1432,"Greensboro","NC",27410
+1435,"Lewisburg","WV",24901
+1442,"Roanoke Rapids","NC",27870
+1459,"Elkins","WV",26241
+1460,"Glen Allen","VA",23060
+1463,"Elizabeth City","NC",27909
+1464,"Mechanicsville","VA",23111
+1465,"York","PA",17402
+1467,"Chester","VA",23831
+1480,"Clarksburg","WV",26301
+1483,"Gettysburg","PA",17325
+1491,"Salisbury","NC",28144
+1495,"Eden","NC",27288
+1507,"Hermitage","PA",16148
+1515,"Oxford","NC",27565
+1528,"Harrisburg","PA",17111
+1544,"Lewistown","PA",17044
+1549,"Greece","NY",14626
+1550,"High Point","NC",27263
+1552,"Durham","NC",27704
+1556,"Rochester","NY",14623
+1560,"Wilkes Barre","PA",18702
+1568,"Hampton","VA",23666
+1574,"State College","PA",16803
+1575,"Williamston","NC",27892
+1580,"Lewisburg","PA",17837
+1590,"Dublin","VA",24084
+1592,"Weston","WV",26452
+1593,"Meadville","PA",16335
+1598,"Kinston","NC",28504
+1599,"Statesville","NC",28625
+1600,"Wilson","NC",27893
+1602,"Waynesville","NC",28786
+1603,"Charlotte","NC",28205
+1607,"Hagerstown","MD",21740
+1612,"New Hartford","NY",13413
+1614,"Wyomissing","PA",19610
+1618,"Canandaigua","NY",14424
+1619,"Chesapeake","VA",23321
+1620,"Everett","PA",15537
+1624,"Suffolk","VA",23434
+1625,"Virginia Beach","VA",23452
+1631,"Marion","NC",28752
+1636,"Hooksett","NH",3106
+1638,"Martinsburg","WV",25401
+1641,"Waterloo","NY",13165
+1648,"Fairmont","WV",26554
+1649,"Prince Frederick","MD",20678
+1652,"Waldorf","MD",20601
+1655,"Easton","MD",21601
+1659,"Harrisonburg","VA",22801
+1663,"Tappahannock","VA",22560
+1664,"Geneva","NY",14456
+1670,"Dover","DE",19901
+1672,"Washington","PA",15301
+1675,"Milford","DE",19963
+1676,"Webster","NY",14580
+1680,"Somersworth","NH",3878
+1682,"Turnersville","NJ",8012
+1683,"Charleston","SC",29414
+1685,"Raleigh","NC",27612
+1686,"Derry","NH",3038
+1692,"Gloucester","VA",23061
+1693,"Seabrook","NH",3874
+1695,"Bluefield","VA",24605
+1697,"Somerset","PA",15501
+1701,"Shallotte","NC",28470
+1702,"Cranberry Township","PA",16066
+1705,"Du Bois","PA",15801
+1706,"Sanford","NC",27332
+1707,"Newport News","VA",23602
+1710,"Reading","PA",19606
+1714,"Charlottesville","VA",22901
+1715,"Vienna","WV",26105
+1716,"Cortland","NY",13045
+1718,"Hudson","NH",3051
+1721,"Scarborough","ME",4074
+1726,"Pisgah Forest","NC",28768
+1728,"Saint Marys","PA",15857
+1729,"Bloomsburg","PA",17815
+1730,"Amherst","NH",3031
+1731,"Thomaston","ME",4861
+1739,"Gloversville","NY",12078
+1741,"West Berlin","NJ",8091
+1744,"Fishkill","NY",12524
+1746,"Norfolk","VA",23502
+1750,"Knightdale","NC",27545
+1751,"Newark","NY",14513
+1753,"Kittanning","PA",16201
+1754,"Charlotte","NC",28227
+1755,"Hanover","PA",17331
+1759,"Manassas","VA",20109
+1760,"Auburn","NY",13021
+1761,"Fredericksburg","VA",22401
+1763,"Mullins","SC",29574
+1765,"Liverpool","NY",13090
+1767,"Vestal","NY",13850
+1772,"Greensboro","NC",27407
+1773,"Chesapeake","VA",23320
+1778,"Toms River","NJ",8755
+1783,"Chambersburg","PA",17202
+1784,"Winston Salem","NC",27105
+1785,"Woodbridge","VA",22192
+1787,"Bangor","ME",4401
+1789,"Elkton","MD",21921
+1797,"Auburn","ME",4210
+1798,"Farmington","ME",4938
+1799,"Westminster","MD",21157
+1800,"Marlton","NJ",8053
+1802,"Watertown","NY",13601
+1803,"Cranston","RI",2921
+1805,"Severn","MD",21144
+1813,"Dickson City","PA",18519
+1814,"Mechanicsburg","PA",17050
+1816,"Monaca","PA",15061
+1819,"Montoursville","PA",17754
+1820,"Butler","PA",16001
+1821,"Salisbury","MD",21801
+1822,"Manchester","CT",6042
+1823,"Bowie","MD",20716
+1834,"Leesburg","VA",20176
+1836,"Fairhaven","MA",2719
+1837,"Niagara Falls","NY",14304
+1839,"Hinsdale","NH",3451
+1847,"Bellingham","MA",2019
+1850,"Lincoln","ME",4457
+1852,"Manahawkin","NJ",8050
+1854,"Oswego","NY",13126
+1857,"Presque Isle","ME",4769
+1861,"Plaistow","NH",3865
+1864,"Johnstown","PA",15904
+1865,"South Hill","VA",23970
+1867,"Ellsworth","ME",4605
+1871,"Rensselaer","NY",12144
+1874,"Brunswick","ME",4011
+1875,"Mansfield","PA",16933
+1877,"Massena","NY",13662
+1878,"Weirton","WV",26062
+1879,"Ahoskie","NC",27910
+1880,"Fredonia","NY",14063
+1884,"Sanford","ME",4073
+1886,"Louisburg","NC",27549
+1889,"Middletown","NY",10940
+1894,"Westerly","RI",2891
+1895,"Geneseo","NY",14454
+1897,"Midlothian","VA",23113
+1898,"Aberdeen","MD",21001
+1899,"Springfield","MA",1119
+1901,"Hudson","MA",1749
+1902,"Claremont","NH",3743
+1903,"Brick","NJ",8724
+1904,"Houlton","ME",4730
+1905,"Lakewood","NY",14750
+1908,"Putnam","CT",6260
+1910,"California","MD",20619
+1912,"North Adams","MA",1247
+1914,"Laurel","MD",20724
+1917,"Horseheads","NY",14845
+1922,"Plattsburgh","NY",12901
+1923,"Brockport","NY",14420
+1927,"Latham","NY",12110
+1930,"North Brunswick","NJ",8902
+1932,"Kitty Hawk","NC",27949
+1934,"Kannapolis","NC",28083
+1938,"Grove City","PA",16127
+1940,"North Oxford","MA",1537
+1941,"Abingdon","MD",21009
+1942,"Waterville","ME",4901
+1943,"Fairfax","VA",22033
+1945,"Uniontown","PA",15401
+1948,"Raynham","MA",2767
+1949,"North Windham","CT",6256
+1950,"Tunkhannock","PA",18657
+1951,"Lebanon","PA",17046
+1953,"Lavale","MD",21502
+1959,"South Charleston","WV",25309
+1962,"Sterling","VA",20166
+1964,"Burlington","NJ",8016
+1965,"Warsaw","NY",14569
+1967,"Nottingham","MD",21236
+1968,"Pennsville","NJ",8070
+1969,"Augusta","ME",4330
+1971,"Palmyra","ME",4965
+1972,"Altoona","PA",16601
+1977,"Saratoga Springs","NY",12866
+1978,"Concord","NH",3301
+1980,"Greensburg","PA",15601
+1981,"Raleigh","NC",27609
+1982,"Rindge","NH",3461
+1986,"Milford","PA",18337
+1988,"Levittown","PA",19055
+2002,"Morgantown","WV",26508
+2006,"Batavia","NY",14020
+2007,"Franklin","NJ",7416
+2008,"Bristol","VA",24202
+2010,"Ogdensburg","NY",13669
+2011,"Utica","NY",13502
+2013,"Wareham","MA",2571
+2014,"Hudson","NY",12534
+2015,"Warminster","PA",18974
+2022,"Walpole","MA",2081
+2023,"Newburgh","NY",12550
+2025,"Millville","NJ",8332
+2027,"Mays Landing","NJ",8330
+2028,"Lockport","NY",14094
+2034,"Queensbury","NY",12804
+2037,"Lunenburg","MA",1462
+2039,"Norwich","NY",13815
+2042,"Avon","MA",2322
+2045,"Halifax","MA",2338
+2046,"Clearfield","PA",16830
+2048,"Portsmouth","NH",3801
+2052,"Cobleskill","NY",12043
+2053,"West Lebanon","NH",3784
+2054,"Culpeper","VA",22701
+2055,"Charlotte","NC",28262
+2056,"Durham","NC",27707
+2057,"Lynn","MA",1905
+2058,"Salem","NH",3079
+2059,"North Conway","NH",3860
+2060,"Skowhegan","ME",4976
+2061,"Philadelphia","PA",19148
+2062,"Amsterdam","NY",12010
+2063,"Whitehall","PA",18052
+2064,"Torrington","CT",6790
+2069,"Albany","NY",12205
+2070,"Biddeford","ME",4005
+2072,"Gardner","MA",1440
+2073,"Middle Island","NY",11953
+2074,"Northborough","MA",1532
+2075,"North Dartmouth","MA",2747
+2076,"Olean","NY",14760
+2078,"Petersburg","VA",23805
+2079,"Shelton","CT",6484
+2080,"Springville","NY",14141
+2081,"Exton","PA",19341
+2082,"East Syracuse","NY",13057
+2083,"Lehighton","PA",18235
+2084,"Westfield","MA",1085
+2085,"Princeton","NJ",8540
+2086,"Norwich","CT",6360
+2090,"Calais","ME",4619
+2092,"Oxford","ME",4270
+2093,"Danvers","MA",1923
+2096,"Selinsgrove","PA",17870
+2098,"Seekonk","MA",2771
+2102,"Howell","NJ",7731
+2105,"Alexandria","VA",22315
+2109,"Groton","CT",6340
+2112,"York","PA",17408
+2113,"Windham","ME",4062
+2117,"Sayre","PA",18840
+2119,"Amherst","NY",14226
+2121,"Columbia","SC",29206
+2126,"Williston","VT",5495
+2127,"North Smithfield","RI",2896
+2129,"Pittsfield","MA",1201
+2131,"State College","PA",16801
+2132,"Abington","MA",2351
+2133,"Harleysville","PA",19438
+2134,"Branford","CT",6405
+2135,"Frederick","MD",21704
+2136,"Rome","NY",13440
+2143,"Huntington","WV",25705
+2144,"Bedford","NH",3110
+2146,"Cary","NC",27518
+2150,"Catonsville","MD",21228
+2151,"Easton","PA",18045
+2155,"Henderson","NC",27536
+2157,"North Kingstown","RI",2852
+2158,"Alexandria","VA",22306
+2159,"Hazle Township","PA",18202
+2160,"Oneonta","NY",13820
+2161,"Hammonton","NJ",8037
+2162,"West Boylston","MA",1583
+2166,"Schenectady","NY",12303
+2169,"Cambridge","MD",21613
+2172,"Pottstown","PA",19464
+2176,"Erie","PA",16509
+2177,"Glen Burnie","MD",21060
+2179,"East Windsor","CT",6088
+2180,"West Mifflin","PA",15122
+2181,"Naugatuck","CT",6770
+2182,"Coventry","RI",2816
+2183,"New Castle","PA",16101
+2184,"Herkimer","NY",13350
+2185,"Centereach","NY",11720
+2187,"Bennington","VT",5201
+2188,"Owings Mills","MD",21117
+2190,"Flemington","NJ",8822
+2193,"Cromwell","CT",6416
+2194,"Pittsburgh","PA",15275
+2196,"Richmond","VA",23227
+2203,"Roanoke","VA",24012
+2210,"Indiana","PA",15701
+2216,"Orange","MA",1364
+2217,"Rochester","NH",3867
+2218,"Hornell","NY",14843
+2219,"Greenville","SC",29615
+2220,"Saint Albans","VT",5478
+2221,"Lancaster","PA",17602
+2224,"Rocky Mount","VA",24151
+2226,"Ephrata","PA",17522
+2227,"Plymouth","MA",2360
+2228,"Quincy","MA",2169
+2230,"Charleston","SC",29412
+2232,"Catskill","NY",12414
+2233,"Williamsville","NY",14221
+2238,"Germantown","MD",20876
+2240,"Mount Pocono","PA",18344
+2243,"East Stroudsburg","PA",18301
+2244,"North Attleboro","MA",2760
+2247,"Waterford","CT",6385
+2248,"Warwick","RI",2888
+2249,"Troy","NY",12180
+2250,"Wallingford","CT",6492
+2253,"Tilton","NH",3276
+2258,"Ware","MA",1082
+2263,"Newington","NH",3801
+2266,"Ellicott City","MD",21043
+2269,"Hamburg","NY",14075
+2271,"Cary","NC",27513
+2272,"Manchester","NH",3103
+2274,"Rehoboth Beach","DE",19971
+2278,"Ticonderoga","NY",12883
+2280,"Belle Vernon","PA",15012
+2287,"Dundalk","MD",21222
+2288,"Sykesville","MD",21784
+2290,"Warrenton","VA",20186
+2291,"Stafford","VA",22554
+2294,"Sylva","NC",28779
+2297,"Oneida","NY",13421
+2299,"Hatfield","PA",19440
+2300,"Quakertown","PA",18951
+2310,"Seaford","DE",19973
+2317,"Winston Salem","NC",27103
+2321,"Keyser","WV",26726
+2325,"Honesdale","PA",18431
+2328,"Coal Township","PA",17866
+2339,"Phillipsburg","NJ",8865
+2340,"Boone","NC",28607
+2342,"Hackettstown","NJ",7840
+2343,"Latrobe","PA",15650
+2346,"Kingston","NY",12401
+2353,"Pocomoke City","MD",21851
+2356,"Hamilton","NJ",8691
+2359,"Shrewsbury","PA",17361
+2360,"Fredericksburg","VA",22405
+2366,"Mill Hall","PA",17751
+2367,"Mohegan Lake","NY",10547
+2369,"Virginia Beach","VA",23456
+2370,"Rutland","VT",5701
+2373,"Saint Clair","PA",17970
+2377,"Clarion","PA",16214
+2385,"Pittston","PA",18640
+2386,"Monticello","NY",12701
+2388,"Mount Airy","MD",21771
+2394,"New Castle","DE",19720
+2395,"Berlin","MD",21811
+2399,"Erie","PA",16506
+2401,"Luray","VA",22835
+2402,"Madison Heights","VA",24572
+2403,"Charles Town","WV",25414
+2407,"Ledgewood","NJ",7852
+2409,"Carlisle","PA",17013
+2413,"Cockeysville","MD",21030
+2414,"Clinton","NC",28328
+2415,"Camillus","NY",13031
+2416,"Clinton","NJ",8809
+2418,"Uniondale","NY",11553
+2419,"Stratford","CT",6614
+2420,"North Versailles","PA",15137
+2421,"Cheektowaga","NY",14225
+2429,"Cross Lanes","WV",25313
+2430,"Cranberry","PA",16319
+2433,"Newton","NJ",7860
+2439,"Gibsonia","PA",15044
+2442,"Logan","WV",25601
+2443,"Temple","PA",19560
+2456,"Mount Pleasant","PA",15666
+2457,"Whitinsville","MA",1588
+2461,"Piscataway","NJ",8854
+2462,"Gorham","NH",3581
+2465,"Monroe","NY",10950
+2466,"Gilford","NH",3249
+2468,"Allentown","PA",18106
+2470,"Blackstone","VA",23824
+2472,"Woodstock","VA",22664
+2473,"Pearisburg","VA",24134
+2477,"Salem","MA",1970
+2478,"Philadelphia","PA",19154
+2480,"Manville","NJ",8835
+2483,"Falmouth","ME",4105
+2484,"North Reading","MA",1864
+2485,"Covington","VA",24426
+2488,"Ebensburg","PA",15931
+2490,"Punxsutawney","PA",15767
+2497,"Greenville","PA",16125
+2501,"Berlin","VT",5602
+2502,"Hadley","MA",1035
+2503,"Littleton","NH",3561
+2506,"New Martinsville","WV",26155
+2515,"Moorefield","WV",26836
+2518,"Florence","SC",29505
+2522,"Randleman","NC",27317
+2523,"Franklin","VA",23851
+2528,"Myrtle Beach","SC",29577
+2535,"Bristol","CT",6010
+2545,"Tarboro","NC",27886
+2557,"Warwick","RI",2886
+2561,"Spruce Pine","NC",28777
+2566,"Frederick","MD",21701
+2568,"Plymouth","NH",3264
+2569,"Fairlawn","VA",24141
+2571,"Pounding Mill","VA",24637
+2580,"Southport","NC",28461
+2590,"Victor","NY",14564
+2592,"Georgetown","DE",19947
+2595,"Wayne","WV",25570
+2596,"Kernersville","NC",27284
+2600,"Clinton","MD",20735
+2601,"Ashland","VA",23005
+2602,"Sturbridge","MA",1566
+2605,"Boiling Springs","SC",29316
+2606,"Midlothian","VA",23112
+2607,"Harrisonburg","VA",22801
+2608,"Emporia","VA",23847
+2609,"Spencer","WV",25276
+2610,"Buckhannon","WV",26201
+2622,"Richmond","VA",23225
+2623,"Old Bridge","NJ",8857
+2624,"Parkersburg","WV",26101
+2628,"Eddystone","PA",19022
+2631,"Grafton","WV",26354
+2635,"Fuquay Varina","NC",27526
+2637,"Lumberton","NJ",8048
+2641,"Siler City","NC",27344
+2642,"Clifton Park","NY",12065
+2644,"Mason","WV",25260
+2646,"Moundsville","WV",26041
+2647,"Hampstead","MD",21074
+2648,"Lisbon","CT",6351
+2649,"La Plata","MD",20646
+2655,"Rochester","NY",14624
+2664,"Myrtle Beach","SC",29577
+2666,"Glenville","NY",12302
+2667,"Cinnaminson","NJ",8077
+2678,"Newport","RI",2840
+2679,"Myrtle Beach","SC",29575
+2681,"Palmyra","PA",17078
+2686,"Oakland","MD",21550
+2687,"Avon","CT",6001
+2688,"Rocky Hill","CT",6067
+2689,"Northampton","MA",1060
+2690,"Chelmsford","MA",1824
+2691,"Brockton","MA",2301
+2692,"Framingham","MA",1701
+2693,"Suffern","NY",10901
+2695,"Riverhead","NY",11901
+2696,"Corry","PA",16407
+2697,"Biscoe","NC",27209
+2699,"Old Saybrook","CT",6475
+2700,"Southington","CT",6489
+2701,"Central Square","NY",13036
+2704,"East Setauket","NY",11733
+2706,"East Meadow","NY",11554
+2709,"Islandia","NY",11749
+2718,"Goose Creek","SC",29445
+2719,"Hope Mills","NC",28348
+2722,"Salisbury","MD",21826
+2727,"Princeton","WV",24739
+2733,"Parkesburg","PA",19365
+2739,"Swansea","MA",2777
+2740,"Norwalk","CT",6851
+2747,"Newington","CT",6111
+2750,"Leominster","MA",1453
+2771,"Painted Post","NY",14870
+2789,"Washington","DC",20011
+2816,"Haymarket","VA",20169
+2818,"East Brunswick","NJ",8816
+2839,"Saugus","MA",1906
+2869,"Hampton","VA",23666
+2872,"Newport News","VA",23601
+2874,"Teterboro","NJ",7608
+2888,"Chapel Hill","NC",27517
+2896,"Greenville","SC",29611
+2898,"Weymouth","MA",2188
+2909,"Egg Hbr Township","NJ",8234
+2911,"Virginia Beach","VA",23456
+2912,"Suffolk","VA",23435
+2913,"Morgantown","WV",26501
+2915,"Williamsburg","VA",23188
+2920,"Central","SC",29630
+2921,"Delmont","PA",15626
+2926,"Watkins Glen","NY",14891
+2933,"Freehold","NJ",7728
+2934,"Beaver Falls","PA",15010
+2939,"Roanoke","VA",24012
+2943,"Boothwyn","PA",19061
+2944,"Edinboro","PA",16412
+2951,"Yorktown","VA",23693
+2953,"East Windsor","NJ",8520
+2954,"Mexico","ME",4257
+2958,"Wytheville","VA",24382
+2966,"Rochester","NY",14621
+2967,"Harborcreek","PA",16421
+2977,"Flanders","NJ",7836
+2978,"Union","NJ",7083
+2980,"West Jefferson","NC",28694
+2985,"Chesapeake","VA",23320
+2988,"Providence","RI",2904
+2989,"Reidsville","NC",27320
+2990,"Mayodan","NC",27027
+2991,"Grundy","VA",24614
+3008,"Potsdam","NY",13676
+3010,"Fulton","NY",13069
+3011,"Chesapeake","VA",23322
+3012,"Rio Grande","NJ",8242
+3013,"Malone","NY",12953
+3014,"Vineland","NJ",8360
+3016,"Spartanburg","SC",29302
+3024,"Winchester","VA",22603
+3037,"North Charleston","SC",29418
+3041,"Charlotte","NC",28208
+3066,"Leicester","MA",1524
+3067,"Fayetteville","NC",28314
+3069,"Elizabethville","PA",17023
+3075,"Deptford","NJ",8096
+3076,"Westbury","NY",11590
+3087,"Fayetteville","NC",28311
+3090,"Murrells Inlet","SC",29576
+3091,"Riverdale","NJ",7457
+3094,"Warren","PA",16365
+3100,"Hope Mills","NC",28348
+3110,"Linden","NJ",7036
+3117,"Norristown","PA",19403
+3121,"Lebanon","VA",24266
+3128,"Hanover","MD",21076
+3132,"Baltimore","MD",21237
+3133,"Methuen","MA",1844
+3134,"Baltimore","MD",21220
+3140,"Elverson","PA",19520
+3142,"Thomasville","NC",27360
+3143,"Hickory","NC",28601
+3153,"Bradford","PA",16701
+3157,"Secaucus","NJ",7094
+3171,"Epping","NH",3042
+3175,"Danbury","CT",6810
+3177,"Norwalk","CT",6854
+3178,"New Milford","CT",6776
+3179,"Keene","NH",3431
+3180,"Guilford","CT",6437
+3181,"Hamden","CT",6514
+3182,"Waterbury","CT",6705
+3183,"Fall River","MA",2721
+3184,"Kennett Square","PA",19348
+3185,"Teaticket","MA",2536
+3186,"Willow Grove","PA",19090
+3187,"Bethlehem","PA",18020
+3188,"Norristown","PA",19401
+3189,"Saddle Brook","NJ",7663
+3198,"Manassas","VA",20110
+3200,"Glenmont","NY",12077
+3214,"Cedar Knolls","NJ",7927
+3215,"Dumfries","VA",22026
+3216,"Fayetteville","NC",28304
+3217,"Fayetteville","NC",28304
+3222,"Forest","VA",24551
+3223,"Albion","NY",14411
+3225,"Lynchburg","VA",24502
+3229,"Burlington","NC",27217
+3232,"Roanoke","VA",24013
+3238,"Winston Salem","NC",27127
+3241,"Roanoke","VA",24019
+3249,"Waynesboro","PA",17268
+3251,"Tamaqua","PA",18252
+3253,"Dulles","VA",20166
+3255,"Florence","SC",29501
+3256,"Goose Creek","SC",29445
+3258,"Chesapeake","VA",23322
+3267,"Greensboro","NC",27405
+3270,"Indian Trail","NC",28079
+3273,"Mount Olive","NC",28365
+3281,"Arbutus","MD",21227
+3283,"Orangeburg","SC",29115
+3284,"Ladson","SC",29456
+3298,"Natrona Heights","PA",15065
+3320,"Altavista","VA",24517
+3324,"Jonesville","VA",24263
+3325,"Stuart","VA",24171
+3328,"Williamstown","NJ",8094
+3330,"Fallston","MD",21047
+3339,"North Bergen","NJ",7047
+3345,"Randallstown","MD",21133
+3346,"Middletown","DE",19709
+3347,"West Haven","CT",6516
+3352,"East Greenville","PA",18041
+3359,"Havelock","NC",28532
+3360,"Little Egg Harbor","NJ",8087
+3365,"Portsmouth","VA",23707
+3367,"Tarentum","PA",15084
+3370,"Macedon","NY",14502
+3371,"Denton","MD",21629
+3387,"Jacksonville","NC",28540
+3389,"Richmond","VA",23229
+3394,"Ashland","VA",23005
+3400,"Richmond","VA",23227
+3403,"Apex","NC",27502
+3404,"North Chesterfield","VA",23234
+3406,"Goose Creek","SC",29445
+3429,"Virginia Beach","VA",23462
+3431,"Wilmington","NC",28411
+3451,"Morrisville","NC",27560
+3453,"Greer","SC",29650
+3456,"Derby","VT",5829
+3457,"Old Bridge","NJ",8857
+3459,"Charlotte","NC",28227
+3460,"Cary","NC",27519
+3477,"Levittown","NY",11756
+3481,"Richmond","VA",23230
+3503,"Virginia Beach","VA",23453
+3504,"Conover","NC",28613
+3518,"Morrisville","NC",27560
+3530,"Fredericksburg","VA",22406
+3534,"Leland","NC",28451
+3536,"Denver","NC",28037
+3537,"Taylor","PA",18517
+3539,"Hurricane","WV",25526
+3544,"Quincy","WV",25015
+3560,"Weaverville","NC",28787
+3569,"Duncansville","PA",16635
+3570,"Kilmarnock","VA",22482
+3585,"Kingwood","WV",26537
+3589,"Columbia","SC",29210
+3590,"Onley","VA",23418
+3593,"Worcester","MA",1607
+3596,"Woodsville","NH",3785
+3597,"Waynesboro","VA",22980
+3604,"Queensbury","NY",12804
+3605,"Granite Falls","NC",28630
+3608,"Etters","PA",17319
+3609,"Mount Pleasant","SC",29466
+3618,"Martinsburg","WV",25404
+3619,"Leesville","SC",29070
+3625,"Asheville","NC",28803
+3626,"Mooresville","NC",28115
+3630,"Newton","NC",28658
+3632,"Irmo","SC",29063
+3634,"Clemson","SC",29631
+3635,"Anderson","SC",29621
+3639,"Greenville","SC",29617
+3642,"Nashville","NC",27856
+3643,"Somerdale","NJ",8083
+3645,"Bennettsville","SC",29512
+3646,"Holly Springs","NC",27540
+3659,"Chesterfield","VA",23832
+3668,"High Point","NC",27265
+3669,"Raleigh","NC",27616
+3674,"Zebulon","NC",27597
+3675,"Columbia","SC",29203
+3676,"Richmond","VA",23284
+3679,"West Brownsville","PA",15417
+3685,"Winchester","VA",22602
+3689,"Lexington","SC",29073
+3701,"Wilson","NC",27893
+3711,"Goldsboro","NC",27530
+3714,"Napanoch","NY",12458
+3717,"Concord","NC",28027
+3727,"Greenville","SC",29615
+3731,"North Tonawanda","NY",14120
+3732,"Cherryville","NC",28021
+3747,"Hamburg","PA",19526
+3748,"Newport News","VA",23605
+3756,"Appomattox","VA",24522
+3758,"Ruckersville","VA",22968
+3762,"Economy","PA",15005
+3767,"Conway","SC",29526
+3778,"Gordonsville","VA",22942
+3781,"King Of Prussia","PA",19406
+3788,"Moon Township","PA",15108
+3789,"Lynchburg","VA",24501
+3804,"Charlotte","NC",28226
+3810,"Hamilton","NJ",8619
+3812,"High Point","NC",27265
+3813,"Greensboro","NC",27407
+3820,"Lancaster","NY",14043
+3829,"Camden","DE",19934
+3831,"Carnegie","PA",15106
+3833,"Clayton","NC",27520
+3836,"Audubon","NJ",8106
+3853,"Charlotte","NC",28270
+3858,"Brewer","ME",4412
+3859,"Boonton","NJ",7005
+3866,"North Myrtle Beach","SC",29582
+3867,"Triadelphia","WV",26059
+3868,"Belmont","NC",28012
+3876,"Hartford","CT",6106
+3881,"Philadelphia","PA",19124
+3884,"Front Royal","VA",22630
+3892,"Watchung","NJ",7069
+3895,"Raleigh","NC",27617
+3902,"Landover Hills","MD",20784
+3904,"Philadelphia","PA",19114
+3905,"Bensalem","PA",19053
+3908,"Waynesboro","VA",22980
+3919,"Neptune","NJ",7753
+3944,"Rockaway","NJ",7866
+3961,"Edison","NJ",8817
+3963,"Commack","NY",11725
+3964,"Lancaster","PA",17601
+3980,"Burke","VA",22015
+3982,"Columbia","MD",21045
+3984,"Wyncote","PA",19095
+3988,"Bechtelsville","PA",19505
+3992,"Ithaca","NY",14850
+3993,"North Huntingdon","PA",15642
+3994,"Cicero","NY",13039
+4003,"Wake Forest","NC",27587
+4004,"Chesapeake","VA",23322
+4022,"Chicopee","MA",1020
+4025,"Summerville","SC",29483
+4028,"Woodbridge","NJ",7095
+4029,"Greece","NY",14616
+4034,"Columbia","SC",29170
+4035,"Milford","CT",6460
+4037,"Valley Stream","NY",11581
+4038,"Raleigh","NC",27610
+4039,"Barboursville","WV",25504
+4041,"Gastonia","NC",28052
+4043,"Farmingdale","NY",11735
+4059,"Columbia","SC",29210
+4061,"Beckley","WV",25801
+4065,"Greensboro","NC",27406
+4078,"Pittsburgh","PA",15238
+4081,"Towson","MD",21286
+4082,"Fredericksburg","VA",22407
+4083,"Cherry Hill","NJ",8002
+4084,"Dunkirk","MD",20754
+4085,"Mebane","NC",27302
+4094,"Blairsville","PA",15717
+4095,"Shippensburg","PA",17257
+4097,"Titusville","PA",16354
+4103,"Myrtle Beach","SC",29577
+4112,"Connellsville","PA",15425
+4113,"Cayce","SC",29033
+4114,"Hanover","MA",2339
+4115,"Bethel Park","PA",15102
+4116,"Sumter","SC",29150
+4118,"Bridgeton","NJ",8302
+4120,"Pasadena","MD",21122
+4126,"Greensboro","NC",27406
+4140,"Lanoka Harbor","NJ",8734
+4161,"New Haven","CT",6513
+4168,"Erie","PA",16504
+4170,"Kearny","NJ",7032
+4171,"Waynesburg","PA",15370
+4173,"Raynham","MA",2767
+4175,"North East","MD",21901
+4177,"Wilmington","DE",19808
+4189,"Huntingdon","PA",16652
+4193,"Woodbury","NJ",8096
+4198,"Charlotte","NC",28216
+4202,"Norfolk","VA",23505
+4203,"Pembroke","NC",28372
+4208,"Evans Mills","NY",13637
+4209,"Glenolden","PA",19036
+4210,"Hanover","PA",17331
+4212,"Lowville","NY",13367
+4249,"Warrington","PA",18976
+4284,"Garden City Beach","SC",29576
+4296,"Locust Grove","VA",22508
+4299,"Johnson City","NY",13790
+4307,"Garner","NC",27529
+4310,"Locust","NC",28097
+4313,"Garfield","NJ",7026
+4314,"Williamsburg","VA",23188
+4315,"Norfolk","VA",23518
+4327,"Alexandria","VA",22306
+4331,"Brooklyn","CT",6234
+4337,"King George","VA",22485
+4338,"Raeford","NC",28376
+4343,"Oxford","PA",19363
+4365,"Danville","VA",24540
+4379,"Greenville","NC",27858
+4382,"Powhatan","VA",23139
+4390,"Bayonne","NJ",7002
+4397,"Springfield","PA",19064
+4398,"Fairfax","VA",22030
+4401,"Huntersville","NC",28078
+4402,"Camp Hill","PA",17011
+4407,"Philadelphia","PA",19137
+4417,"Myrtle Beach","SC",29577
+4420,"Virginia Beach","VA",23451
+4428,"Washington","DC",20001
+4432,"Vienna","VA",22182
+4441,"Washington","DC",20011
+4443,"Chantilly","VA",20151
+4468,"Greensboro","NC",27410
+4469,"Summerville","SC",29485
+4474,"Virginia Beach","VA",23464
+4475,"Charlotte","NC",28262
+4476,"Clemmons","NC",27012
+4477,"Winston Salem","NC",27106
+4478,"Winston Salem","NC",27103
+4498,"Virginia Beach","VA",23452
+4504,"Concord","NC",28027
+4512,"Norfolk","VA",23502
+4513,"King","NC",27021
+4515,"Kernersville","NC",27284
+4517,"Winston-salem","NC",27104
+4522,"Fayetteville","NC",28306
+4523,"Greenwood","SC",29646
+4531,"Stafford","VA",22556
+4532,"Timberville","VA",22853
+4533,"Sutton","WV",26601
+4535,"Cameron","NC",28326
+4547,"Richlands","NC",28574
+4548,"Dallas","NC",28034
+4554,"Gastonia","NC",28054
+4557,"Henrico","VA",23223
+4559,"Jacksonville","NC",28546
+4561,"Kings Mountain","NC",28086
+4563,"Hampstead","NC",28443
+4565,"Rockingham","VA",22801
+4566,"North Chesterfield","VA",23234
+4568,"Waxhaw","NC",28173
+4570,"Newport","NC",28570
+4572,"Darlington","SC",29532
+4573,"Archdale","NC",27263
+4574,"Lexington","NC",27295
+4576,"New Bern","NC",28563
+4578,"Lumberton","NC",28358
+4579,"Greenville","NC",27834
+4584,"Winterville","NC",28590
+4589,"Grantsboro","NC",28529
+4606,"Hudson","NC",28638
+4616,"Morganton","NC",28655
+4617,"Hickory","NC",28602
+4622,"St. Pauls","NC",28384
+4623,"Greenville","NC",27858
+4625,"Goldsboro","NC",27534
+4626,"Goldsboro","NC",27534

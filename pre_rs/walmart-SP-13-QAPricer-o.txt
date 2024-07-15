@@ -1,0 +1,9 @@
+41,"Eldon Store",-92.5838242,"US",38.3352206,"1802 S Business 54",65026
+307,"Higginsville Store",-93.736752,"US",39.077943,"1180 W 19th St",64037
+430,"Malden Store",-89.972394,"US",36.570405,"1007 N Douglass St",63863
+744,"Macon Store",-92.463896,"US",39.753883,"705 E Briggs Dr",63552
+812,"Buffalo Store",-93.1061393,"US",37.6390437,"1250 W Dallas St",65622
+854,"Cuba Store",-91.40187,"US",38.073249,"100 Ozark Dr",65453
+1209,"Saint Louis Supercenter",-90.283606,"US",38.765978,"10741 West Florissant Ave",63136
+2432,"Chesterfield Supercenter",-90.591551,"US",38.665861,"100 Thf Blvd",63005
+4419,"Florissant Supercenter",-90.2925148,"US",38.8111037,"3390 N Highway 67",63033

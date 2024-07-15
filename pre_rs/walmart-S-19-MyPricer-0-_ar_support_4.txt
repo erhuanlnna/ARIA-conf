@@ -1,0 +1,3 @@
+"OK|Millington|2163 W C 48|28.301788|87123|309-836-3311|https://www.walmart.com/store/758/americus-ga/details"
+"OK|Covington|950 Mackie Dr|39.018965|74848|913-563-1751|https://www.walmart.com/store/665/campbellsville-ky/details"
+"FL|Washington|2805 S State Highway 36|35.570126|38801|229-377-1394|https://www.walmart.com/store/930/montgomery-al/details"

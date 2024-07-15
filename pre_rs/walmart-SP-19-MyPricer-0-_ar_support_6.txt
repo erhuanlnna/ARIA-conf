@@ -1,0 +1,5 @@
+"WI|2025 W Business Us Highway 60|00:00|27.221482|63501|Tomah Supercenter|24:00|https://www.walmart.com/store/727/cedartown-ga/details|Lawrence|US|-97.337823|281-421-4859"
+"WI|3820 State Highway 64 W|00:00|37.644053|70546|Lees Summit Supercenter|24:00|https://www.walmart.com/store/995/franklin-in/details|Waverly|US|-93.84385|931-359-9568"
+"WI|7401 Interstate Highway 30|00:00|31.320306|37160|Lexington Supercenter|24:00|https://www.walmart.com/store/48/monett-mo/details|Terrell|US|-96.381422|641-236-4999"
+"WI|1701 A Roy Dr|00:00|37.7679224|40422|West Monroe Supercenter|24:00|https://www.walmart.com/store/139/purcell-ok/details|Enid|US|-84.30593|731-422-1614"
+"WI|202 Park Plaza Dr|00:00|34.2420797|74525|Camden Supercenter|24:00|https://www.walmart.com/store/294/central-city-ky/details|Baytown|US|-87.2769413|785-742-7445"

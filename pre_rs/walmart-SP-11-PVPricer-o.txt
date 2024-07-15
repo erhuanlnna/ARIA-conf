@@ -1,0 +1,31 @@
+243,-96.461769,"00:00","Rockwall Supercenter",32.902041
+265,-97.03214,"00:00","Rockdale Supercenter",30.642342
+419,-97.045087,"06:00","Rockport Supercenter",28.048113
+555,-80.963138,"06:00","Rock Hill Supercenter",34.94418
+644,-84.657694,"00:00","Rockwood Supercenter",35.879877
+792,-89.687013,"06:00","Rock Falls Store",41.763311
+895,-89.051617,"00:00","Rochelle Supercenter",41.937176
+965,-79.7388708,"00:00","Rockingham Supercenter",34.9131373
+1146,-77.812272,"00:00","Rocky Mount Supercenter",35.978113
+1400,-109.251197,"00:00","Rock Springs Supercenter",41.580611
+1429,-88.973392,"00:00","Rockford Supercenter",42.266166
+1556,-77.62265,"06:00","Rochester Supercenter",43.080606
+1576,-86.2143509,"00:00","Rochester Supercenter",41.0505489
+1881,-89.031952,"00:00","Rockford Supercenter",42.31514
+1900,-92.511312,"00:00","Rochester Supercenter",44.07697
+2217,-71.01322,"06:00","Rochester Supercenter",43.333921
+2224,-79.863379,"00:00","Rocky Mount Supercenter",37.013618
+2234,-83.198109,"00:00","Rochester Hills Supercenter",42.643433
+2611,-92.459468,"00:00","Rochester Supercenter",43.986706
+2655,-77.688947,"06:00","Rochester Supercenter",43.133781
+2688,-72.657462,"07:00","Rocky Hill Store",41.679131
+2831,-121.239575,"06:00","Rocklin Neighborhood Market",38.784013
+2966,-77.5968688,"07:00","Rochester Supercenter",43.1942812
+3168,-96.46793,"06:00","Rockwall Neighborhood Market",32.931345
+3209,-121.201915,"06:00","Rocklin Supercenter",38.802655
+3610,-85.030381,"06:00","Rockmart Supercenter",34.013127
+3730,-81.089807,"00:00","Rock Hill Supercenter",34.979292
+3944,-74.562167,"07:00","Rockaway Store",40.907569
+4134,-89.1136743,"06:00","Rockford Supercenter",42.3130126
+4538,-81.017952,"00:00","Rock Hill Neighborhood Market",34.953135
+4565,-78.864133,"06:00","Rockingham Neighborhood Market",38.405135

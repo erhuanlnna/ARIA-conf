@@ -1,0 +1,5 @@
+"33604|US|813-932-0562|8885 N Florida Ave|Tampa Neighborhood Market|Tampa|24:00|06:00|28.032076"
+"33615|US|813-249-3145|6216 Elliot Dr|Tampa Neighborhood Market|Tampa|24:00|06:00|28.006403"
+"33614|US|813-498-4095|3671 W Hillsborough Ave|Tampa Neighborhood Market|Tampa|24:00|06:00|27.997309"
+"33606|US|813-254-6125|1601 W Kennedy Blvd|Tampa Neighborhood Market|Tampa|24:00|06:00|27.94564"
+"33624|US|813-261-6086|4525 Gunn Hwy|Tampa Neighborhood Market|Tampa|24:00|06:00|28.0496322"

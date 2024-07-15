@@ -1,0 +1,6 @@
+59,-75.141376,"PA","https://www.walmart.com/store/2141/philadelphia-pa/details","24:00","1675 S Christopher Columbus Blvd","Philadelphia Supercenter",19148,39.926499,"330-468-0200","US"
+207,-124.190507,"OH","https://www.walmart.com/store/2966/wadsworth-oh/details","24:00","222 Smokerise Dr","Wadsworth Supercenter",44281,41.052608,"330-336-5170","US"
+320,-81.94154,"OH","https://www.walmart.com/store/1812/wooster-oh/details","24:00","3883 Burbank Rd","Jurupa Valley Neighborhood Market",44691,40.847635,"330-345-8955","US"
+324,-81.38377,"OH","https://www.walmart.com/store/3722/kent-oh/details","24:00","250 Tallmadge Rd","Kent Supercenter",31903,41.097718,"330-673-3142","US"
+591,-81.94154,"OH","https://www.walmart.com/store/1812/wooster-oh/details","24:00","3883 Burbank Rd","Wooster Supercenter",44691,28.3438221,"330-345-8955","US"
+810,-81.433352,"OH","https://www.walmart.com/store/2865/spokane-wa/details","24:00","4572 Mega St Nw","North Canton Store",44720,40.870859,"330-305-9527","US"

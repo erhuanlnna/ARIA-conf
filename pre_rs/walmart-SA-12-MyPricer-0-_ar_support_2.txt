@@ -1,0 +1,4 @@
+"Guthrie|TX|29150"
+"Longmont|MS|29108"
+"Cleburne|IN|29102"
+"Waterloo|TX|29624"

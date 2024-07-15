@@ -1,0 +1,6 @@
+98,-90.155134,"24:00","125 E Bestor Dr","US","06:00",61254,"Geneseo Store","https://www.walmart.com/store/957/geneseo-il/details",41.43277,"Houston","309-944-2145"
+319,-90.402201,"24:00","1601 18th St","US","00:00",61282,"Port Orchard Supercenter","https://www.walmart.com/store/4511/silvis-il/details",41.494392,"Silvis","309-796-3526"
+410,-90.155134,"24:00","125 E Bestor Dr","US","06:00",61254,"Geneseo Store","https://www.walmart.com/store/957/geneseo-il/details",41.43277,"Bloomington","309-944-2145"
+631,-80.993665,"24:00","3155 State Rd 44","US","00:00",32168,"New Smyrna Beach Supercenter","https://www.walmart.com/store/1079/new-smyrna-beach-fl/details",29.015677,"New Smyrna Beach","309-828-5646"
+870,-95.434461,"24:00","155 E Courtland St","US","00:00",61550,"Morton Supercenter","https://www.walmart.com/store/5157/morton-il/details",40.630189,"Morton","309-263-7898"
+887,-89.461783,"24:00","155 E Courtland St","US","00:00",15044,"Morton Supercenter","https://www.walmart.com/store/5157/morton-il/details",40.630189,"Morton","309-263-7898"

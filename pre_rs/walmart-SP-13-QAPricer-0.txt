@@ -1,0 +1,5 @@
+127,"Aurora Supercenter",-93.714993,"US",36.946462,"3020 S Elliott Ave",65605
+253,"Saint Louis Supercenter",-95.693918,"US",38.765978,"10741 West Florissant Ave",63136
+356,"Florissant Supercenter",-90.2925148,"US",38.8111037,"3404 West Stan Schlueter Loop",63033
+613,"Eldon Store",-92.5838242,"US",38.3352206,"1802 S Business 54",65026
+644,"West Jefferson Supercenter",-90.2925148,"US",38.8111037,"3390 N Highway 67",63033

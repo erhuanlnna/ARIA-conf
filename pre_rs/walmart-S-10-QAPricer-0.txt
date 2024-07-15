@@ -1,0 +1,745 @@
+1,"Orlando Store","https://www.walmart.com/store/1084/orlando-fl/details","3838 S Semoran Blvd","06:00",28.504964,"FL",32822
+3,"Wilkes Barre Supercenter","https://www.walmart.com/store/1623/wilkes-barre-pa/details","2150 Wilkes Barre Twnsp Mktpl","06:00",41.238458,"PA",34461
+4,"Horn Lake Supercenter","https://www.walmart.com/store/6964/horn-lake-ms/details","4150 Goodman Road West","00:00",29.894378,"MS",38637
+5,"Greensburg Supercenter","https://www.walmart.com/store/1180/greensburg-in/details","790 Greensburg Commons Ctr","00:00",39.359859,"CO",47240
+6,"Carrollton Supercenter","https://www.walmart.com/store/722/carrollton-ga/details","1735 S Highway 27","00:00",40.029557,"GA",30117
+6,"Lancaster Supercenter","https://www.walmart.com/store/2334/lancaster-pa/details","2034 Lincoln Hwy E","00:00",33.5432197,"PA",17602
+7,"Durham Supercenter","https://www.walmart.com/store/4275/peoria-az/details","1525 Glenn School Rd","06:00",36.02823,"NC",27704
+11,"Cedartown Supercenter","https://www.walmart.com/store/4114/longview-tx/details","1585 Rome Hwy","06:00",34.0463802,"GA",30125
+12,"Du Bois Supercenter","https://www.walmart.com/store/1769/du-bois-pa/details","20 Industrial Dr","00:00",34.9198793,"PA",15801
+13,"New Milford Store","https://www.walmart.com/store/3546/new-milford-ct/details","164 Danbury Rd","07:00",41.551962,"CT",6776
+14,"Weston Supercenter","https://www.walmart.com/store/1653/weston-wv/details","110 Berlin Rd","06:00",39.019833,"WV",26452
+14,"Decatur Neighborhood Market","https://www.walmart.com/store/2488/decatur-al/details","1203 6th Ave Se","00:00",34.588891,"AL",35601
+15,"Fowlerville Supercenter","https://www.walmart.com/store/4540/fowlerville-mi/details","2701 S Interstate 35","00:00",42.648099,"MI",48836
+16,"Riverdale Store","https://www.walmart.com/store/3443/riverdale-nj/details","48 State Rt 23","07:00",38.785465,"NJ",7457
+19,"Diberville Neighborhood Market","https://www.walmart.com/store/6166/diberville-ms/details","10290 D'iberville Rd","00:00",30.436819,"MS",39540
+21,"Ashland Supercenter","https://www.walmart.com/store/1426/ashland-ky/details","351 River Hill Dr","00:00",38.485575,"MS",41101
+21,"Cleveland Supercenter","https://www.walmart.com/store/1530/cleveland-ms/details","710 N Davis Ave","00:00",33.757227,"KY",38732
+24,"Lancaster Supercenter","https://www.walmart.com/store/100/bentonville-ar/details","4975 Transit Rd","00:00",42.882479,"NY",14043
+25,"Rogersville Supercenter","https://www.walmart.com/store/3234/rogersville-tn/details","4331 Highway 66 S","00:00",36.396561,"TN",37857
+26,"Coal Township Supercenter","https://www.walmart.com/store/2481/coal-township-pa/details","9300 State Route 61","00:00",41.7424997,"PA",17866
+26,"Napanoch Supercenter","https://www.walmart.com/store/4570/napanoch-ny/details","7500 Route 209","00:00",40.7878265,"NY",12458
+29,"East Meadow Store","https://www.walmart.com/store/2916/east-meadow-ny/details","2465 Hempstead Tpke","07:00",40.726907,"NY",16652
+30,"Trinidad Supercenter","https://www.walmart.com/store/2558/sterling-heights-mi/details","44575 Mound Rd","00:00",42.621319,"MI",48314
+32,"Dothan Neighborhood Market","https://www.walmart.com/store/5769/dothan-al/details","3871 West Main Street","00:00",31.231526,"AL",36305
+33,"Eden Supercenter","https://www.walmart.com/store/1558/eden-nc/details","304 E Arbor Ln","00:00",36.488342,"NC",27288
+33,"Fort Myers Supercenter","https://www.walmart.com/store/5034/fort-myers-fl/details","4770 Colonial Blvd","00:00",26.610823,"FL",33966
+34,"Pasadena Neighborhood Market","https://www.walmart.com/store/3161/pasadena-fl/details","6850 Gulfport Blvd S","06:00",27.7572296,"FL",33707
+35,"Deridder Supercenter","https://www.walmart.com/store/5391/naples-fl/details","5420 Juliet Blvd","00:00",26.270825,"FL",34109
+36,"Southaven Supercenter","https://www.walmart.com/store/848/southaven-ms/details","6811 Southcrest Pkwy","00:00",33.820498,"MS",38671
+37,"Asheville Supercenter","https://www.walmart.com/store/1317/asheville-nc/details","125 Bleachery Blvd","06:00",35.577077,"NC",28805
+38,"Moses Lake Supercenter","https://www.walmart.com/store/4365/orlando-fl/details","11930 Narcoossee Road","00:00",28.389851,"FL",32832
+39,"Rome Supercenter","https://www.walmart.com/store/5151/rome-ga/details","825 Cartersville Hwy Se","00:00",34.221331,"GA",30161
+40,"West Palm Beach Supercenter","https://www.walmart.com/store/1541/west-palm-beach-fl/details","9990 Belvedere Rd","00:00",47.5229841,"FL",33411
+41,"Lancaster Supercenter","https://www.walmart.com/store/1030/lancaster-sc/details","310 Riggs Road Ne","00:00",34.7342509,"SC",29720
+41,"Washington Supercenter","https://www.walmart.com/store/3035/washington-dc/details","805 Hwy 9 Bypass Wes","06:00",38.957531,"DC",20011
+42,"Sevierville Supercenter","https://www.walmart.com/store/578/sevierville-tn/details","1414 Parkway","06:00",35.838403,"TN",37862
+43,"Myrtle Beach Neighborhood Market","https://www.walmart.com/store/4295/alexandria-la/details","3915 N Kings Hwy","00:00",33.717465,"SC",29577
+44,"Florence Supercenter","https://www.walmart.com/store/2703/florence-sc/details","2014 S Irby St","00:00",34.155229,"SC",29505
+45,"Lancaster Neighborhood Market","https://www.walmart.com/store/2214/columbia-sc/details","5420 Forest Dr","06:00",34.02128,"SC",29206
+46,"Dublin Supercenter","https://www.walmart.com/store/555/dublin-ga/details","6433 Fallbrook Ave","06:00",32.551232,"GA",31021
+47,"Deltona Neighborhood Market","https://www.walmart.com/store/6398/deltona-fl/details","638 Quequechan Street","06:00",28.906876,"FL",32725
+48,"North Attleboro Supercenter","https://www.walmart.com/store/2366/north-attleboro-ma/details","1470 S Washington St","06:00",41.933426,"MA",2760
+52,"Rochester Supercenter","https://www.walmart.com/store/2330/rochester-nh/details","116 Farmington Rd","06:00",43.333921,"NH",29210
+53,"York Supercenter","https://www.walmart.com/store/1529/york-pa/details","2801 E Market St Bldg B","00:00",39.977681,"PA",17402
+56,"Columbia Supercenter","https://www.walmart.com/store/1286/columbia-sc/details","7520 Garners Ferry Rd","06:00",33.964176,"SC",29209
+59,"Macedonia Supercenter","https://www.walmart.com/store/1927/macedonia-oh/details","8160 Macedonia Commons Blvd","00:00",41.309977,"OH",44056
+59,"Philadelphia Supercenter","https://www.walmart.com/store/2141/philadelphia-pa/details","1675 S Christopher Columbus Blvd","06:00",39.926499,"PA",19148
+60,"Biloxi Neighborhood Market","https://www.walmart.com/store/6849/biloxi-ms/details","17222 Highway 99","06:00",30.403829,"MS",39531
+61,"Monroe Supercenter","https://www.walmart.com/store/780/monroe-ga/details","2050 W Spring St","00:00",33.798413,"GA",30655
+62,"Modesto Supercenter","https://www.walmart.com/store/5710/modesto-ca/details","3848 Mchenry Ave","06:00",37.694458,"CA",8755
+63,"Cape Coral Neighborhood Market","https://www.walmart.com/store/6941/cape-coral-fl/details","2020 Ne Pine Island Road","06:00",38.14942,"FL",33909
+64,"Sebastian Supercenter","https://www.walmart.com/store/1068/sebastian-fl/details","2001 Us Highway #1","00:00",27.829339,"FL",32958
+66,"Columbus Neighborhood Market","https://www.walmart.com/store/4421/columbus-ga/details","7400 Blackmon Rd","06:00",32.552444,"GA",31909
+67,"Macon Supercenter","https://www.walmart.com/store/1153/macon-ga/details","6020 Harrison Rd","06:00",32.8090607,"GA",31206
+67,"Columbus Supercenter","https://www.walmart.com/store/1371/columbus-in/details","735 Whitfield Dr","00:00",39.206333,"IN",47201
+68,"Wapakoneta Supercenter","https://www.walmart.com/store/7246/cochran-ga/details","1257 Bellefontaine St","00:00",40.561577,"OH",45895
+68,"Cochran Supercenter","https://www.walmart.com/store/3300/wapakoneta-oh/details","366 Hwy 26 East","06:00",32.400301,"GA",31014
+69,"Leesville Supercenter","https://www.walmart.com/store/4420/leesville-sc/details","115 E Church St","06:00",33.917546,"SC",29070
+70,"Hickory Supercenter","https://www.walmart.com/store/2315/dallas-or/details","2525 Us Highway 70 Se","00:00",35.703382,"NC",28602
+75,"Rancho Cordova Supercenter","https://www.walmart.com/store/754/statesboro-ga/details","147 Northside Dr E","00:00",32.4341545,"GA",30458
+77,"Shelton Store","https://www.walmart.com/store/492/vincennes-in/details","650 Kimmell Rd","00:00",38.662953,"IN",47591
+77,"Vincennes Supercenter","https://www.walmart.com/store/2163/shelton-ct/details","465 Bridgeport Ave","07:00",41.29143,"CT",6484
+78,"Newport Neighborhood Market","https://www.walmart.com/store/7098/newport-nc/details","6645 Highway 70","06:00",34.775819,"NY",28570
+79,"Charlotte Neighborhood Market","https://www.walmart.com/store/6233/charlotte-nc/details","11530 N Tryon St","06:00",35.334147,"NC",28262
+81,"Southaven Supercenter","https://www.walmart.com/store/848/southaven-ms/details","6811 Southcrest Pkwy","06:00",34.959728,"MS",38671
+81,"Columbus Neighborhood Market","https://www.walmart.com/store/4426/columbus-ga/details","1042 Manchester Expy","00:00",32.506142,"GA",31904
+84,"Santa Maria Neighborhood Market","https://www.walmart.com/store/3842/macedon-ny/details","425 State Route 31","00:00",43.066512,"NY",14502
+86,"Blackstone Supercenter","https://www.walmart.com/store/2645/blackstone-va/details","121 W Elmsley St","06:00",37.060797,"VA",23824
+86,"Greensboro Supercenter","https://www.walmart.com/store/5320/greensboro-nc/details","1451 S Main St","06:00",36.002186,"NC",27406
+87,"Saint Cloud Neighborhood Market","https://www.walmart.com/store/5265/saint-cloud-fl/details","2125 Nolte Rd","06:00",28.222798,"FL",34772
+89,"Union Supercenter","https://www.walmart.com/store/629/union-sc/details","513 N Duncan Byp","06:00",34.726994,"SC",29379
+91,"Norton Supercenter","https://www.walmart.com/store/2731/gainesville-ga/details","2892 Browns Bridge Rd","06:00",34.2801955,"GA",30504
+93,"Lincoln Supercenter","https://www.walmart.com/store/5408/indianapolis-in/details","3805 S Keystone Ave","06:00",39.7110384,"IN",46227
+94,"Louisburg Supercenter","https://www.walmart.com/store/1953/louisburg-nc/details","705 Retail Way","06:00",36.08324,"NC",15717
+94,"Blairsville Supercenter","https://www.walmart.com/store/5356/blairsville-pa/details","300 Resort Plaza Dr","00:00",40.442519,"PA",27549
+97,"Huntsville Neighborhood Market","https://www.walmart.com/store/5716/huntsville-al/details","9020 Bailey Cove Rd Se","06:00",34.647258,"CA",35802
+99,"Evansville Neighborhood Market","https://www.walmart.com/store/5452/evansville-in/details","4331 8th St S","00:00",38.002606,"IN",47710
+100,"Hudson Supercenter","https://www.walmart.com/store/2097/hudson-ny/details","460 Fairview Ave","00:00",36.1231761,"NY",12534
+101,"Leitchfield Supercenter","https://www.walmart.com/store/445/leitchfield-ky/details","1801 Elizabethtown Rd","undefined",37.484701,"KY",42754
+102,"Gardner Supercenter","https://www.walmart.com/store/2155/gardner-ma/details","677 Timpany Blvd","07:00",42.55141,"MA",1440
+102,"New Hudson Supercenter","https://www.walmart.com/store/5048/new-hudson-mi/details","30729 Lyon Center Dr E","00:00",42.513919,"MI",48165
+104,"Manville Supercenter","https://www.walmart.com/store/2651/manville-nj/details","516 School House Rd","00:00",40.546574,"NJ",8835
+105,"Saint Cloud Supercenter","https://www.walmart.com/store/560/saint-joseph-mo/details","4400 13th St","00:00",28.255445,"FL",34769
+106,"Kilmarnock Supercenter","https://www.walmart.com/store/1319/knoxville-tn/details","7550 Norris Fwy","00:00",36.088885,"TN",37938
+107,"Fredonia Supercenter","https://www.walmart.com/store/1939/brunswick-me/details","15 Tibbetts Dr","06:00",43.907103,"ME",4011
+108,"Buford Supercenter","https://www.walmart.com/store/3786/buford-ga/details","3250 Sardis Church Rd","00:00",33.413821,"GA",30519
+109,"Knoxville Supercenter","https://www.walmart.com/store/1319/knoxville-tn/details","7550 Norris Fwy","00:00",36.088885,"TN",37938
+109,"Diberville Supercenter","https://www.walmart.com/store/2715/diberville-ms/details","3615 Sangani Blvd","00:00",30.456509,"MS",39540
+110,"Chesapeake Supercenter","https://www.walmart.com/store/1682/chesapeake-va/details","2448 Chesapeake Square Ring Rd","00:00",36.829961,"VA",23321
+113,"King Of Prussia Supercenter","https://www.walmart.com/store/4687/king-of-prussia-pa/details","275 N Gulph Rd","00:00",35.144689,"PA",19406
+113,"Grantsboro Supercenter","https://www.walmart.com/store/7238/grantsboro-nc/details","11233 B Nc 55 Hwy","06:00",40.083475,"NC",28529
+115,"Kenton Supercenter","https://www.walmart.com/store/6178/aurora-co/details","1241 E Columbus St","06:00",40.657293,"OH",43326
+116,"Tawas City Supercenter","https://www.walmart.com/store/5376/tawas-city-mi/details","621 E Lake St","00:00",44.27772,"MI",23601
+119,"Danbury Store","https://www.walmart.com/store/124/little-rock-ar/details","67 Newtown Rd","07:00",41.407877,"CT",6810
+120,"Biloxi Neighborhood Market","https://www.walmart.com/store/6849/biloxi-ms/details","2050 Pass Road","06:00",30.403829,"MS",39531
+121,"Orlando Neighborhood Market","https://www.walmart.com/store/4211/orlando-fl/details","5559 Clarcona Ocoee Rd","06:00",28.612495,"FL",32810
+122,"Bowling Green Supercenter","https://www.walmart.com/store/299/bowling-green-ky/details","4490 Gallia St","00:00",36.948807,"KY",42104
+122,"New Boston Supercenter","https://www.walmart.com/store/1564/new-boston-oh/details","150 Walton Ave","00:00",38.752864,"OH",45662
+126,"Hanover Supercenter","https://www.walmart.com/store/1823/hanover-pa/details","495 Eisenhower Dr","00:00",39.823698,"PA",17331
+128,"Jacksonville Supercenter","https://www.walmart.com/store/3702/jacksonville-fl/details","13227 City Square Dr","06:00",30.477426,"FL",32218
+128,"Chicopee Supercenter","https://www.walmart.com/store/5278/chicopee-ma/details","591 Memorial Dr","07:00",42.172343,"MA",1020
+129,"Hilton Head Island Supercenter","https://www.walmart.com/store/728/hilton-head-island-sc/details","25 Pembroke Dr","00:00",27.608819,"SC",29926
+129,"Avon Park Supercenter","https://www.walmart.com/store/3887/avon-park-fl/details","1041 Us Highway 27 N","00:00",32.211604,"FL",33825
+130,"Elizabethtown Store","https://www.walmart.com/store/1166/elizabethtown-nc/details","660 W Martin Luther King Blvd","06:00",34.630698,"NC",28337
+133,"Fairfax Supercenter","https://www.walmart.com/store/2015/fairfax-va/details","13059 Fair Lakes Parkway","00:00",35.0545697,"VA",22033
+133,"Fayetteville Neighborhood Market","https://www.walmart.com/store/3411/fayetteville-nc/details","8660 Cliffdale Road","06:00",38.854186,"NC",28314
+135,"Lakeville Supercenter","https://www.walmart.com/store/1974/houlton-me/details","17 Ludlow Rd","07:00",46.143162,"ME",4730
+136,"Indianapolis Neighborhood Market","https://www.walmart.com/store/6390/indianapolis-in/details","5550 Fall Creek Parkway N Dr.","06:00",39.853829,"IN",46226
+137,"Dallas Supercenter","https://www.walmart.com/store/636/princeton-il/details","3615 Marietta Hwy","00:00",33.935634,"GA",30157
+140,"Shelbyville Supercenter","https://www.walmart.com/store/656/shelbyville-tn/details","1880 N Main St","00:00",35.513194,"OH",37160
+140,"Mason Supercenter","https://www.walmart.com/store/1441/mason-oh/details","5303 Bowen Drive","00:00",39.311522,"TN",45040
+142,"Timnath Supercenter","https://www.walmart.com/store/2180/danvers-ma/details","55 Brooksby Village Way","07:00",42.55444,"MA",1923
+143,"Northport Supercenter","https://www.walmart.com/store/2306/northport-al/details","100 Walmart Dr","00:00",33.236372,"AL",35476
+143,"Kingwood Supercenter","https://www.walmart.com/store/4372/kingwood-wv/details","5710 Mcfarland Blvd","00:00",39.486923,"WV",26537
+144,"Newnan Supercenter","https://www.walmart.com/store/494/newnan-ga/details","1025 Highway 34 E","00:00",33.393498,"GA",30265
+149,"Hartford Supercenter","https://www.walmart.com/store/2468/rohnert-park-ca/details","495 Flatbush Avenue","06:00",41.739791,"CT",6106
+151,"Pensacola Supercenter","https://www.walmart.com/store/1222/pensacola-fl/details","8970 Pensacola Blvd","00:00",30.527664,"MO",32534
+152,"Fairmont Supercenter","https://www.walmart.com/store/1714/fairmont-wv/details","13322 West Airport Blvd","00:00",39.424718,"WV",26554
+153,"Lynchburg Supercenter","https://www.walmart.com/store/4697/lynchburg-va/details","1325 Denver Ave","00:00",37.410677,"VA",24501
+154,"Franklin Store","https://www.walmart.com/store/2090/franklin-nj/details","230 State Highway","07:00",41.116058,"NJ",27513
+155,"Monticello Supercenter","https://www.walmart.com/store/348/monticello-ar/details","427 Highway 425 N","00:00",33.63588,"AR",41503
+156,"Brockton Store","https://www.walmart.com/store/1083/jacksonville-fl/details","700 Oak St","07:00",42.0980861,"MA",2301
+160,"Cambridge Supercenter","https://www.walmart.com/store/3262/cambridge-oh/details","61205 Southgate Rd","00:00",39.989348,"TX",43725
+161,"Murrieta Store","https://www.walmart.com/store/3/commerce-ga/details","30983 Highway 441 S","00:00",34.247854,"GA",30529
+162,"Beaufort Supercenter","https://www.walmart.com/store/1383/beaufort-sc/details","350 Robert Smalls Pkwy","00:00",32.425554,"SC",29906
+163,"Jacksonville Supercenter","https://www.walmart.com/store/1082/jacksonville-fl/details","10991 San Jose Blvd Ste 1","00:00",30.177358,"FL",32223
+167,"Hilton Head Island Supercenter","https://www.walmart.com/store/728/hilton-head-island-sc/details","25 Pembroke Dr","00:00",32.211604,"SC",41101
+169,"New Milford Store","https://www.walmart.com/store/3546/new-milford-ct/details","164 Danbury Rd","07:00",41.551962,"CT",6776
+170,"Elyria Supercenter","https://www.walmart.com/store/4255/elyria-oh/details","1603 Vance Jackson Rd","00:00",41.350947,"OH",44035
+171,"Lawrenceville Supercenter","https://www.walmart.com/store/548/lawrenceville-ga/details","630 Collins Hill Rd","00:00",33.971139,"GA",30046
+172,"Bad Axe Supercenter","https://www.walmart.com/store/1592/bad-axe-mi/details","901 N Van Dyke Rd","06:00",43.817639,"MI",48413
+175,"Palm Springs Supercenter","https://www.walmart.com/store/5882/palm-springs-fl/details","2765 10th Ave N","00:00",26.6309088,"FL",33461
+177,"Fayetteville Supercenter","https://www.walmart.com/store/1591/harrisburg-pa/details","6535 Grayson Rd","06:00",40.261651,"PA",17111
+178,"Camden Supercenter","https://www.walmart.com/store/634/camden-sc/details","2240 W Dekalb St","00:00",31.577418,"SC",29020
+179,"Lexington Supercenter","https://www.walmart.com/store/1335/lexington-va/details","1233 N Lee Hwy","00:00",37.805879,"VA",24450
+182,"Okemos Store","https://www.walmart.com/store/1424/colonial-heights-va/details","671 Southpark Blvd","00:00",37.2458298,"VA",23834
+182,"Colonial Heights Supercenter","https://www.walmart.com/store/2866/okemos-mi/details","5110 Times Square Pl","07:00",42.72877,"MI",48864
+183,"Montgomery Supercenter","https://www.walmart.com/store/938/montgomery-al/details","6495 Atlanta Hwy","06:00",32.385046,"AL",36117
+184,"Cordova Supercenter","https://www.walmart.com/store/2322/cordova-tn/details","577 N Germantown Pkwy","00:00",30.761862,"TN",38018
+184,"Semmes Supercenter","https://www.walmart.com/store/5174/semmes-al/details","7855 Moffett Rd","06:00",35.140734,"AL",36575
+185,"Clearwater Neighborhood Market","https://www.walmart.com/store/4667/clearwater-fl/details","1803 N Highland Ave","00:00",27.9870445,"FL",33755
+186,"West Palm Beach Supercenter","https://www.walmart.com/store/5301/west-palm-beach-fl/details","4375 Belvedere Rd","00:00",26.693816,"NJ",33406
+188,"Washington Supercenter","https://www.walmart.com/store/1354/washington-nc/details","1040 Collinsville Crossing Blvd","00:00",35.559783,"NC",27889
+189,"Milford Supercenter","https://www.walmart.com/store/2064/milford-pa/details","220 Route 6 & 209","00:00",41.34997,"PA",18337
+189,"Stratford Store","https://www.walmart.com/store/2585/stratford-ct/details","150 Barnum Avenue Cutoff","07:00",41.2013398,"CT",6614
+191,"Fulton Supercenter","https://www.walmart.com/store/3332/fulton-ny/details","1161 Trenton Ave","00:00",43.323635,"NY",13069
+193,"Waynesboro Supercenter","https://www.walmart.com/store/5117/waynesboro-va/details","116 Lucy Ln","00:00",38.067831,"TX",22980
+195,"Charlotte Supercenter","https://www.walmart.com/store/1642/charlotte-mi/details","1680 Packard Hwy","00:00",42.580217,"MI",48813
+196,"San Antonio Neighborhood Market","https://www.walmart.com/store/5224/san-antonio-tx/details","4226 De Zavala Rd","06:00",29.5744773,"TX",46227
+198,"Jackson Store","https://www.walmart.com/store/693/jackson-ky/details","1589 Kentucky / Hwy","06:00",37.551571,"KY",33825
+202,"Modesto Neighborhood Market","https://www.walmart.com/store/2964/leominster-ma/details","11 Jungle Rd","06:00",42.491861,"MA",1453
+203,"Cocoa Supercenter","https://www.walmart.com/store/174/cocoa-fl/details","2700 Clearlake Rd","00:00",28.395378,"MN",32922
+204,"Williamsburg Supercenter","https://www.walmart.com/store/1048/williamsburg-ky/details","589 W Highway 92","00:00",36.324329,"KY",40769
+205,"Lavale Supercenter","https://www.walmart.com/store/979/sparta-wi/details","12500 Country Club Mall Rd","00:00",39.624903,"MD",21502
+206,"Forest Supercenter","https://www.walmart.com/store/1059/forest-ms/details","1309 Highway 35 S","06:00",35.357235,"MS",39074
+206,"Biscoe Supercenter","https://www.walmart.com/store/2908/biscoe-nc/details","201 Montgomery Xing","00:00",32.338638,"NC",27209
+207,"Wadsworth Supercenter","https://www.walmart.com/store/2966/wadsworth-oh/details","222 Smokerise Dr","00:00",41.052608,"OH",44281
+210,"Altoona Supercenter","https://www.walmart.com/store/753/cedar-falls-ia/details","2600 Plank Road Commons","00:00",40.455457,"PA",16601
+211,"Knoxville Supercenter","https://www.walmart.com/store/2310/knoxville-tn/details","3051 Kinzel Way","10:00",36.03112,"TN",37924
+212,"Wallingford Supercenter","https://www.walmart.com/store/2371/wallingford-ct/details","844 N Colony Rd","00:00",41.477509,"CT",6492
+213,"Brockton Store","https://www.walmart.com/store/1714/fairmont-wv/details","700 Oak St","07:00",42.0980861,"MA",2301
+215,"Manor Supercenter","https://www.walmart.com/store/3169/manor-tx/details","11923 Us Hwy 290 E","00:00",30.3475451,"TX",3051
+217,"Fort Wayne Supercenter","https://www.walmart.com/store/4230/fort-wayne-in/details","10105 Lima Rd","00:00",41.176255,"IN",46818
+218,"Rosemead Supercenter","https://www.walmart.com/store/2720/madison-ms/details","127 Grandview Blvd","00:00",32.467307,"MS",39110
+219,"Mcallen Neighborhood Market","https://www.walmart.com/store/5034/fort-myers-fl/details","4770 Colonial Blvd","00:00",26.610823,"FL",33966
+220,"Bonner Springs Supercenter","https://www.walmart.com/store/4644/moon-township-pa/details","7500 University Boulevard","00:00",40.515671,"PA",15108
+221,"West Mifflin Supercenter","https://www.walmart.com/store/2281/west-mifflin-pa/details","2351 Century Dr","07:00",40.341812,"PA",15122
+225,"Livermore Store","https://www.walmart.com/store/1972/livermore-ca/details","2700 Las Positas Rd","06:00",37.699249,"CA",22026
+226,"Shawnee Neighborhood Market","https://www.walmart.com/store/5308/shawnee-ks/details","11010 W 74th Ter","06:00",38.994557,"KS",34221
+229,"Kissimmee Supercenter","https://www.walmart.com/store/5420/kissimmee-fl/details","3250 Vineland Rd","00:00",28.341551,"FL",34746
+230,"Eufaula Supercenter","https://www.walmart.com/store/1638/eufaula-al/details","1257 Bellefontaine St","06:00",31.843586,"AL",36027
+232,"Hialeah Supercenter","https://www.walmart.com/store/1590/hialeah-fl/details","5851 Nw 177th St","00:00",25.935789,"IN",33015
+232,"Richmond Supercenter","https://www.walmart.com/store/1745/richmond-in/details","3601 E Main St","00:00",39.826734,"FL",47374
+233,"Phoenix Supercenter","https://www.walmart.com/store/5190/phoenix-az/details","2501 W Happy Valley Rd Ste 34","00:00",33.7083498,"AZ",23234
+236,"Lewisburg Supercenter","https://www.walmart.com/store/737/lewisburg-tn/details","1334 No. Ellington P","00:00",38.923919,"TN",37091
+239,"North Fort Myers Supercenter","https://www.walmart.com/store/805/fenton-mo/details","545 Pine Island Rd","00:00",26.679553,"FL",33903
+242,"Oneida Supercenter","https://www.walmart.com/store/5616/nashville-tn/details","19740 Alberta St","00:00",36.513272,"TN",37841
+242,"Nashville Supercenter","https://www.walmart.com/store/583/oneida-tn/details","2421 Powell Ave","06:00",36.11089,"TN",37204
+243,"Pembroke Supercenter","https://www.walmart.com/store/2056/saratoga-springs-ny/details","16 Old Gick Rd","00:00",43.10445,"NY",12866
+243,"Saratoga Springs Supercenter","https://www.walmart.com/store/5489/pembroke-nc/details","930 Highway 711 East","06:00",34.670137,"NC",28372
+244,"Blairsville Supercenter","https://www.walmart.com/store/5356/blairsville-pa/details","300 Resort Plaza Dr","00:00",40.442519,"PA",15717
+245,"New Tazewell Store","https://www.walmart.com/store/525/lake-mary-fl/details","825 Casa Verde Blvd","06:00",28.784512,"FL",32746
+245,"Lake Mary Neighborhood Market","https://www.walmart.com/store/1159/new-tazewell-tn/details","432 S Broad St","00:00",36.439395,"TN",37825
+246,"New Milford Store","https://www.walmart.com/store/3546/new-milford-ct/details","6727 Raleigh Lagrange Road","07:00",41.551962,"CT",6776
+246,"Memphis Supercenter","https://www.walmart.com/store/6807/memphis-tn/details","164 Danbury Rd","06:00",35.176134,"TN",38133
+248,"Lincolnton Supercenter","https://www.walmart.com/store/1209/lincolnton-nc/details","306 N Generals Blvd","00:00",35.483343,"FL",28092
+248,"West Palm Beach Supercenter","https://www.walmart.com/store/4446/west-palm-beach-fl/details","4225 45th St","06:00",26.762254,"NC",33407
+249,"Connersville Supercenter","https://www.walmart.com/store/1729/connersville-in/details","4200 Western Ave","00:00",45.711725,"IN",47331
+255,"Huntington Supercenter","https://www.walmart.com/store/2311/huntington-in/details","2800 Wal Mart Dr","00:00",40.898979,"IN",32210
+256,"Snyder Supercenter","https://www.walmart.com/store/6390/indianapolis-in/details","5550 Fall Creek Parkway N Dr.","06:00",39.853829,"IN",46226
+257,"Baldwin Park Supercenter","https://www.walmart.com/store/3522/baldwin-park-ca/details","3250 Big Dalton Ave","06:00",34.071943,"CA",28097
+259,"The Village Neighborhood Market","https://www.walmart.com/store/5445/erie-pa/details","2711 Elm St","06:00",42.122991,"PA",16504
+261,"Macon Supercenter","https://www.walmart.com/store/1153/macon-ga/details","6020 Harrison Rd","06:00",32.8090607,"GA",31206
+265,"Tallahassee Supercenter","https://www.walmart.com/store/1077/tallahassee-fl/details","3535 Apalachee Pkwy","00:00",30.425341,"FL",32311
+267,"Wake Forest Supercenter","https://www.walmart.com/store/4512/katy-tx/details","2114 S Main St","00:00",35.952496,"NC",27587
+268,"Longview Supercenter","https://www.walmart.com/store/2931/salisbury-md/details","409 N Fruitland Blvd","00:00",38.3283334,"MD",21826
+269,"Summerville Supercenter","https://www.walmart.com/store/628/summerville-sc/details","9880 Dorchester Rd","00:00",38.675429,"SC",29485
+270,"Waycross Neighborhood Market","https://www.walmart.com/store/1475/washington-ia/details","1630 Plant Ave","00:00",31.220298,"GA",31501
+271,"Lebanon Supercenter","https://www.walmart.com/store/1675/lebanon-ky/details","2136 Campbellsville Rd","07:00",37.553369,"KY",40033
+272,"Sylacauga Supercenter","https://www.walmart.com/store/730/sylacauga-al/details","760 Hoosick Rd","00:00",33.1759079,"AL",35150
+273,"Greenville Supercenter","https://www.walmart.com/store/4583/greenville-sc/details","3925 Pelham Rd","06:00",42.33185,"SC",29615
+275,"Lithonia Supercenter","https://www.walmart.com/store/1909/niagara-falls-ny/details","1540 Military Rd","00:00",43.094308,"NY",14304
+277,"Marion Supercenter","https://www.walmart.com/store/1294/marion-in/details","4505 W Charleston Blvd","00:00",40.530175,"IN",46953
+278,"Webster Supercenter","https://www.walmart.com/store/1744/webster-ny/details","1990 Brandt Point Drive","05:00",43.190503,"NY",14580
+279,"Vincennes Supercenter","https://www.walmart.com/store/492/vincennes-in/details","650 Kimmell Rd","00:00",38.662953,"IN",47591
+280,"Cairo Supercenter","https://www.walmart.com/store/858/cairo-ga/details","361 8th Ave Ne","00:00",39.076252,"GA",39828
+281,"Madison Supercenter","https://www.walmart.com/store/695/madison-tn/details","3300 State Highway 210 W","06:00",36.3088479,"TN",37115
+283,"Jacksonville Supercenter","https://www.walmart.com/store/1090/jacksonville-fl/details","6767 103rd St","06:00",36.986766,"FL",32210
+284,"Marietta Supercenter","https://www.walmart.com/store/1766/marietta-ga/details","3100 Johnson Ferry Rd","06:00",34.023274,"RI",30062
+285,"Pasadena Supercenter","https://www.walmart.com/store/5382/pasadena-md/details","8107 Governor Ritchie Highway","00:00",33.414323,"MD",21122
+286,"Northborough Supercenter","https://www.walmart.com/store/2158/northborough-ma/details","200 Otis St","06:00",31.688927,"MA",1532
+287,"Stuart Supercenter","https://www.walmart.com/store/407/killeen-tx/details","19265 Jeb Stuart Hwy","00:00",36.638695,"VA",24171
+288,"Fort Wayne Supercenter","https://www.walmart.com/store/1729/connersville-in/details","4200 Western Ave","00:00",39.684407,"IN",47331
+288,"Connersville Supercenter","https://www.walmart.com/store/4231/fort-wayne-in/details","7502 Southtown Crossing Blvd","06:00",41.014001,"IN",46816
+290,"Thomasville Supercenter","https://www.walmart.com/store/3503/thomasville-nc/details","2103 Milam St","00:00",35.855633,"NC",27360
+291,"North Miami Beach Supercenter","https://www.walmart.com/store/3235/north-miami-beach-fl/details","3200 Lusk Dr","06:00",25.928265,"FL",33162
+294,"Decatur Supercenter","https://www.walmart.com/store/662/decatur-al/details","2800 Spring Avn. S.w","00:00",34.556416,"AL",35603
+295,"Elizabethtown Store","https://www.walmart.com/store/1166/elizabethtown-nc/details","1347 W Broad St","06:00",34.630698,"NC",28337
+297,"Fenton Supercenter","https://www.walmart.com/store/2693/fenton-mi/details","3700 Owen Rd","06:00",42.792319,"MI",48430
+298,"Fort Wayne Supercenter","https://www.walmart.com/store/5025/fort-wayne-in/details","10420 Maysville Rd","00:00",41.128329,"IN",46835
+299,"Fresno Neighborhood Market","https://www.walmart.com/store/2689/fresno-ca/details","3131 N Cedar Ave","06:00",36.778967,"CA",2886
+300,"Williston Store","https://www.walmart.com/store/1077/tallahassee-fl/details","3535 Apalachee Pkwy","00:00",30.425341,"FL",32311
+301,"Wood Village Supercenter","https://www.walmart.com/store/2927/wood-village-or/details","23500 Ne Sandy Blvd","00:00",45.541121,"OR",46038
+304,"Washington Court House Supercenter","https://www.walmart.com/store/3251/washington-court-house-oh/details","1397 Leesburg Ave","00:00",39.522633,"OH",43160
+305,"Cleveland Supercenter","https://www.walmart.com/store/2153/biddeford-me/details","4495 Keith St Nw","00:00",35.20219,"TN",37312
+306,"Tamaqua Supercenter","https://www.walmart.com/store/5204/bossier-city-la/details","35 Plaza Dr","00:00",40.836824,"PA",18252
+308,"Shepherdsville Supercenter","https://www.walmart.com/store/4118/shepherdsville-ky/details","545 Conestoga Parkway Lot 1","00:00",37.999851,"NJ",40165
+309,"Apopka Supercenter","https://www.walmart.com/store/955/apopka-fl/details","1700 S Org Blsmtrail","09:00",28.6495856,"FL",32703
+310,"Tallahassee Supercenter","https://www.walmart.com/store/1408/tallahassee-fl/details","4400 W Tennessee St","00:00",30.461987,"FL",32304
+310,"Chattanooga Neighborhood Market","https://www.walmart.com/store/5143/chattanooga-tn/details","8101 East Brainerd Rd","06:00",35.005441,"TN",37421
+311,"Sugar Land Neighborhood Market","https://www.walmart.com/store/4466/sugar-land-tx/details","13322 West Airport Blvd","06:00",29.652058,"TX",27203
+312,"West Haven Store","https://www.walmart.com/store/3803/west-haven-ct/details","515 Saw Mill Rd","07:00",41.270691,"CT",6516
+314,"St Petersburg Supercenter","https://www.walmart.com/store/1536/st-petersburg-fl/details","10237 Bay Pines Blvd","00:00",27.8158476,"FL",33708
+315,"Tawas City Supercenter","https://www.walmart.com/store/5376/tawas-city-mi/details","3636 Monroe Hwy","00:00",44.27772,"MI",48763
+316,"Warner Robins Supercenter","https://www.walmart.com/store/3750/warner-robins-ga/details","502 Booth Rd","00:00",32.590144,"GA",35957
+317,"Lebanon Supercenter","https://www.walmart.com/store/1407/lebanon-oh/details","1530 Walmart Dr","00:00",39.456055,"OH",27344
+317,"Siler City Supercenter","https://www.walmart.com/store/2845/siler-city-nc/details","14215. U.s. Highway 64 West","00:00",35.732122,"NC",45036
+318,"Port Charlotte Neighborhood Market","https://www.walmart.com/store/6937/port-charlotte-fl/details","137 W North Ave","06:00",27.0022316,"FL",33948
+320,"Jurupa Valley Neighborhood Market","https://www.walmart.com/store/1812/wooster-oh/details","3883 Burbank Rd","00:00",40.847635,"OH",44691
+322,"Cranston Supercenter","https://www.walmart.com/store/1873/cranston-ri/details","1776 Plainfield Pike","07:00",41.788163,"RI",2921
+323,"Archdale Neighborhood Market","https://www.walmart.com/store/7206/archdale-nc/details","10250 S. Main St.","06:00",35.898133,"NC",27263
+324,"Columbus Supercenter","https://www.walmart.com/store/1338/columbus-ga/details","3515 Victory Drive","05:00",32.423808,"GA",44240
+324,"Kent Supercenter","https://www.walmart.com/store/3722/kent-oh/details","250 Tallmadge Rd","00:00",41.097718,"OH",31903
+326,"Middletown Supercenter","https://www.walmart.com/store/3571/middletown-oh/details","2900 Towne Blvd","06:00",39.488698,"OH",45044
+327,"Alexandria Supercenter","https://www.walmart.com/store/5753/alexandria-va/details","6303 Richmond Hwy","00:00",38.780009,"VA",22306
+328,"Wilson Neighborhood Market","https://www.walmart.com/store/4545/wilson-nc/details","1520 South Main Street","00:00",35.752502,"NC",27893
+331,"Erie Supercenter","https://www.walmart.com/store/2561/erie-pa/details","5350 W. Ridge Rd","00:00",42.0679412,"PA",16506
+332,"Dothan Supercenter","https://www.walmart.com/store/2534/dothan-al/details","23800 Allen Rd","00:00",31.178814,"AL",36301
+332,"Woodhaven Supercenter","https://www.walmart.com/store/3336/woodhaven-mi/details","3300 S Oates St","00:00",42.135539,"MI",48183
+333,"Falmouth Store","https://www.walmart.com/store/2659/falmouth-me/details","206 Us Rt 1","07:00",43.720249,"ME",4105
+334,"Selinsgrove Supercenter","https://www.walmart.com/store/2185/selinsgrove-pa/details","980 N Susquehanna Trl","00:00",40.822864,"PA",17870
+336,"Greenville Neighborhood Market","https://www.walmart.com/store/7337/greenville-nc/details","1826 E. Arlington Blvd","06:00",35.567322,"NC",27858
+337,"Wyncote Store","https://www.walmart.com/store/5229/wyncote-pa/details","1000 Easton Rd Ste 200","06:00",40.0822209,"PA",19095
+339,"Leitchfield Supercenter","https://www.walmart.com/store/445/leitchfield-ky/details","1801 Elizabethtown Rd","00:00",37.484701,"KY",42754
+340,"Saginaw Supercenter","https://www.walmart.com/store/2644/saginaw-mi/details","5825 Brockway Rd","00:00",43.433738,"MI",48638
+341,"Xenia Supercenter","https://www.walmart.com/store/1463/xenia-oh/details","70 Hospitality Dr","00:00",39.689426,"OH",6790
+341,"Torrington Store","https://www.walmart.com/store/2144/torrington-ct/details","970 Torringford St","07:00",41.8184691,"CT",45385
+342,"Bentonville Supercenter","https://www.walmart.com/store/100/bentonville-ar/details","406 S Walton Blvd","00:00",36.368151,"AR",32224
+343,"Locust Grove Supercenter","https://www.walmart.com/store/5709/locust-grove-ga/details","4949 Bill Gardner Pkwy","05:00",33.358138,"GA",30248
+346,"Melbourne Store","https://www.walmart.com/store/956/melbourne-fl/details","1001 E Eau Gallie Blvd","00:00",28.136798,"FL",32937
+349,"Orlando Supercenter","https://www.walmart.com/store/908/orlando-fl/details","8101 S John Young Pkwy","00:00",28.447665,"FL",23322
+349,"Chesapeake Supercenter","https://www.walmart.com/store/3644/chesapeake-va/details","201 Hillcrest Pkwy","00:00",36.653773,"VA",32819
+350,"Raleigh Store","https://www.walmart.com/store/1603/chester-sc/details","1691 J A Cochran Bypass","07:00",34.699825,"SC",29706
+350,"Chester Supercenter","https://www.walmart.com/store/1751/raleigh-nc/details","6600 Glenwood Ave","06:00",35.862402,"NC",27612
+351,"New Martinsville Supercenter","https://www.walmart.com/store/2684/new-martinsville-wv/details","1142 S Bridge St","06:00",39.656581,"WV",26155
+352,"Petersburg Supercenter","https://www.walmart.com/store/2160/petersburg-va/details","3500 S Crater Rd","06:00",37.17957,"VA",23805
+352,"Vienna Supercenter","https://www.walmart.com/store/5936/vienna-va/details","1500 B Cornerside Blvd","00:00",38.9296,"VA",22182
+355,"Colorado Springs Supercenter","https://www.walmart.com/store/5123/colorado-springs-co/details","5550 E Woodmen Rd","00:00",38.942711,"CO",31326
+358,"Doral Supercenter","https://www.walmart.com/store/2091/doral-fl/details","8651 Nw 13th Ter","00:00",25.787081,"FL",33126
+360,"Mount Pleasant Supercenter","https://www.walmart.com/store/7357/cypress-tx/details","4730 Encore Blvd","00:00",43.572988,"MI",48858
+362,"Baxley Supercenter","https://www.walmart.com/store/5392/baxley-ga/details","980 W Parker St","00:00",31.786216,"GA",31513
+367,"Arbutus Supercenter","https://www.walmart.com/store/3720/arbutus-md/details","3601 Washington Blvd","06:00",39.248504,"MD",21227
+369,"Clinton Supercenter","https://www.walmart.com/store/1710/clinton-ms/details","950 Highway 80 E","00:00",32.3261145,"MS",38556
+371,"Fayetteville Supercenter","https://www.walmart.com/store/594/fayetteville-ga/details","125 Pavilion Pkwy","00:00",33.481376,"GA",35016
+372,"Wyncote Store","https://www.walmart.com/store/5229/wyncote-pa/details","1000 Easton Rd Ste 200","06:00",40.0822209,"PA",19095
+373,"Napanoch Supercenter","https://www.walmart.com/store/297/porter-tx/details","7500 Route 209","00:00",41.7424997,"NY",12458
+377,"Rocky Mount Supercenter","https://www.walmart.com/store/1197/rocky-mount-nc/details","470 N Airport Rd","00:00",35.978113,"NC",27804
+378,"Dunwoody Supercenter","https://www.walmart.com/store/2360/dunwoody-ga/details","500 S Blosser Rd","06:00",33.9333,"GA",30338
+379,"Shelbyville Supercenter","https://www.walmart.com/store/497/shelbyville-ky/details","500 Taylorsville Rd","00:00",38.21018,"KY",40065
+380,"Summerfield Supercenter","https://www.walmart.com/store/2937/hibbing-mn/details","17961 S Us Highway 441","00:00",28.962586,"FL",34491
+381,"Faribault Supercenter","https://www.walmart.com/store/1657/faribault-mn/details","150 Western Ave Nw","00:00",44.290001,"MN",46410
+382,"Kokomo Supercenter","https://www.walmart.com/store/1962/kokomo-in/details","1920 E Markland Ave","07:00",40.479321,"IN",46901
+382,"East Meadow Store","https://www.walmart.com/store/2916/east-meadow-ny/details","2465 Hempstead Tpke","00:00",40.726907,"NY",11554
+383,"Athens Supercenter","https://www.walmart.com/store/663/athens-tn/details","1815 Decatur Pike","00:00",35.4528545,"TN",37303
+383,"Riverdale Store","https://www.walmart.com/store/3443/riverdale-nj/details","48 State Rt 23","07:00",40.992839,"NJ",7457
+384,"Paragould Neighborhood Market","https://www.walmart.com/store/5780/paragould-ar/details","2600 Linwood Dr","06:00",36.030222,"AR",34748
+385,"Geneva Supercenter","https://www.walmart.com/store/1731/geneva-ny/details","990 State Route 5 And 20","00:00",42.859824,"NY",14456
+386,"De Funiak Springs Supercenter","https://www.walmart.com/store/1134/de-funiak-springs-fl/details","1226 Freeport Road","00:00",30.704493,"FL",32433
+386,"Bradford Supercenter","https://www.walmart.com/store/3514/bradford-pa/details","50 Foster Brook Blvd","00:00",41.978433,"PA",16701
+387,"Danbury Store","https://www.walmart.com/store/3543/danbury-ct/details","67 Newtown Rd","07:00",41.407877,"CT",6810
+388,"Hazard Supercenter","https://www.walmart.com/store/1247/hazard-ky/details","120 Daniel Boone Plz","00:00",40.071845,"KY",41701
+388,"Lebanon Supercenter","https://www.walmart.com/store/1275/lebanon-in/details","2440 N Lebanon St","00:00",37.29907,"IN",46052
+390,"Alexandria Supercenter","https://www.walmart.com/store/1961/alexandria-ky/details","6711 Alexandria Pike","00:00",38.988376,"TX",41001
+391,"Fayetteville Supercenter","https://www.walmart.com/store/314/fayetteville-tn/details","1224 Huntsville Hwy","00:00",35.136734,"TN",37334
+392,"Hillsboro Supercenter","https://www.walmart.com/store/2732/villa-rica-ga/details","600 Carrollton Villa Rica Hwy","00:00",33.720124,"GA",30180
+392,"Villa Rica Supercenter","https://www.walmart.com/store/3515/hillsboro-oh/details","540 Harry Sauner Rd","00:00",39.227839,"OH",45133
+393,"Ware Supercenter","https://www.walmart.com/store/2386/ware-ma/details","8331 S Stewart Ave","06:00",42.237645,"MA",1082
+394,"Colonial Heights Supercenter","https://www.walmart.com/store/1424/colonial-heights-va/details","671 Southpark Blvd","00:00",37.2458298,"VA",23834
+394,"Garner Supercenter","https://www.walmart.com/store/5743/garner-nc/details","5141 Nc Highway 42 W","00:00",35.608001,"NC",27529
+395,"Bartlett Supercenter","https://www.walmart.com/store/950/bartlett-tn/details","8400 Highway 64","00:00",41.59913,"TN",38133
+396,"Calhoun Supercenter","https://www.walmart.com/store/1529/york-pa/details","2801 E Market St Bldg B","00:00",39.977681,"PA",17402
+397,"Indianapolis Supercenter","https://www.walmart.com/store/516/gun-barrel-city-tx/details","3221 W 86th St","06:00",39.909219,"IN",46268
+399,"Manchester Supercenter","https://www.walmart.com/store/1891/manchester-ct/details","420 Buckland Hills Dr","00:00",37.660652,"CT",6042
+400,"Mcdonough Supercenter","https://www.walmart.com/store/3201/mcdonough-ga/details","135 Willow Ln","09:00",33.432882,"GA",30253
+401,"Norristown Supercenter","https://www.walmart.com/store/3475/norristown-pa/details","650 S Trooper Rd","00:00",40.12739,"OR",19403
+404,"Troy Supercenter","https://www.walmart.com/store/2873/troy-mi/details","2001 W Maple Rd","00:00",42.544286,"MI",48084
+406,"Eaton Supercenter","https://www.walmart.com/store/1661/kinston-nc/details","4101 W Vernon Ave","06:00",35.264918,"NC",28504
+408,"Warrenton Supercenter","https://www.walmart.com/store/2437/warrenton-va/details","700 James Madison Hwy","00:00",38.697339,"VA",11554
+408,"East Meadow Store","https://www.walmart.com/store/2916/east-meadow-ny/details","2465 Hempstead Tpke","07:00",40.726907,"NY",20186
+409,"Tampa Neighborhood Market","https://www.walmart.com/store/5255/tampa-fl/details","6216 Elliot Dr","06:00",38.358741,"FL",33615
+410,"Bloomington Supercenter","https://www.walmart.com/store/1991/bloomington-in/details","3313 W State Rd 45","00:00",39.141343,"IN",47403
+412,"Decatur Supercenter","https://www.walmart.com/store/3710/decatur-ga/details","3580 Memorial Dr","06:00",33.757277,"GA",30032
+412,"Savannah Supercenter","https://www.walmart.com/store/4556/savannah-ga/details","14030 Abercorn St","00:00",31.980865,"GA",31419
+413,"Dickinson Supercenter","https://www.walmart.com/store/1567/dickinson-nd/details","2456 3rd Ave W","00:00",46.908396,"ND",28704
+415,"Atlanta Supercenter","https://www.walmart.com/store/3709/atlanta-ga/details","2427 Gresham Rd Se","06:00",32.473542,"GA",30316
+416,"Albuquerque Neighborhood Market","https://www.walmart.com/store/1523/glen-allen-va/details","11400 West Broad Street Road","00:00",37.652043,"VA",23060
+417,"Rogers Neighborhood Market","https://www.walmart.com/store/1132/asheboro-nc/details","1226 E Dixie Dr","00:00",35.692223,"NC",27203
+418,"Columbus Supercenter","https://www.walmart.com/store/1338/columbus-ga/details","1002 La Hwy 70","05:00",32.423808,"GA",31903
+420,"Sunrise Supercenter","https://www.walmart.com/store/3278/lincoln-ne/details","3306 North University Drive","00:00",26.167944,"FL",33351
+423,"Baxter Supercenter","https://www.walmart.com/store/1654/baxter-mn/details","7295 Glory Rd","00:00",46.341881,"MN",19560
+424,"Waterford Supercenter","https://www.walmart.com/store/2331/waterford-ct/details","155 Waterford Parkway No.","00:00",39.358593,"CT",6385
+424,"Grafton Supercenter","https://www.walmart.com/store/2833/grafton-wv/details","#1 Wal-mart Lane","00:00",41.37055,"WV",26354
+427,"Asheboro Supercenter","https://www.walmart.com/store/3847/mesquite-nv/details","1226 E Dixie Dr","00:00",35.692223,"NC",27203
+428,"Poway Supercenter","https://www.walmart.com/store/1197/rocky-mount-nc/details","1511 Benvenue Rd","00:00",35.978113,"NC",27804
+431,"Chipley Supercenter","https://www.walmart.com/store/2114/chipley-fl/details","1621 Main St","06:00",30.752617,"FL",32428
+431,"Camp Hill Supercenter","https://www.walmart.com/store/5888/camp-hill-pa/details","3400 Hartzdale Drive","00:00",40.224885,"PA",17011
+432,"Phenix City Supercenter","https://www.walmart.com/store/1284/phenix-city-al/details","3700 Hwy 280/431 N.","00:00",32.501376,"AL",36867
+433,"Pearisburg Supercenter","https://www.walmart.com/store/2646/pearisburg-va/details","160 Kinter Way","00:00",37.3294193,"VA",24134
+435,"Streamwood Supercenter","https://www.walmart.com/store/1420/streamwood-il/details","850 S Barrington Rd","00:00",42.015255,"IL",29440
+437,"Eaton Supercenter","https://www.walmart.com/store/5374/eaton-oh/details","100a E Washington Jackson Rd","05:00",39.767969,"OH",45320
+438,"Augusta Supercenter","https://www.walmart.com/store/1293/augusta-ga/details","1300 Barlow Rd","06:00",33.424433,"GA",30906
+439,"Dothan Supercenter","https://www.walmart.com/store/2534/dothan-al/details","3300 S Oates St","00:00",31.178814,"IL",36301
+440,"Tucker Neighborhood Market","https://www.walmart.com/store/4501/west-brownsville-pa/details","3201 Tucker Norcross Rd","06:00",33.88378,"GA",30084
+441,"Oak Park Heights Supercenter","https://www.walmart.com/store/6165/gulfport-ms/details","1733 East Pass Road","06:00",30.399387,"MS",39507
+442,"Cherry Hill Store","https://www.walmart.com/store/5340/cherry-hill-nj/details","500 Route 38","07:00",39.938592,"NJ",8002
+445,"Cambridge Supercenter","https://www.walmart.com/store/3471/kennesaw-ga/details","3105 Cobb Pkwy Nw","06:00",34.028451,"GA",30152
+446,"Greensburg Supercenter","https://www.walmart.com/store/2059/greensburg-pa/details","2200 Greengate Centre Cir","00:00",40.3089103,"PA",15601
+447,"Tupelo Neighborhood Market","https://www.walmart.com/store/4619/tupelo-ms/details","316 S Gloster Street","06:00",34.254593,"MS",38801
+448,"Orlando Supercenter","https://www.walmart.com/store/1220/orlando-fl/details","2500 S Kirkman Rd","00:00",28.515333,"FL",32811
+448,"Beaver Falls Supercenter","https://www.walmart.com/store/3223/beaver-falls-pa/details","#100 Chippewa Town Centre","00:00",40.782333,"PA",15010
+449,"Bechtelsville Supercenter","https://www.walmart.com/store/5239/bechtelsville-pa/details","567 Route 100 N","00:00",40.351079,"PA",19505
+452,"Hallandale Beach Supercenter","https://www.walmart.com/store/1996/hallandale-beach-fl/details","2551 E Hallandale Beach Blvd","00:00",37.337928,"FL",33009
+454,"Flowood Supercenter","https://www.walmart.com/store/2755/flowood-ms/details","5341 Highway 25","00:00",47.842328,"MS",39232
+457,"Somerset Supercenter","https://www.walmart.com/store/689/somerset-ky/details","177 Washington Dr","00:00",37.068529,"KY",42501
+459,"Indianapolis Supercenter","https://www.walmart.com/store/1580/indianapolis-in/details","10617 E Washington St","06:00",39.773528,"IN",46229
+460,"North Huntingdon Supercenter","https://www.walmart.com/store/5241/north-huntingdon-pa/details","8000 Lakeland Ave N","00:00",40.316345,"PA",15642
+463,"Harlan Store","https://www.walmart.com/store/1743/harlan-ky/details","201 Walton Road","06:00",36.817489,"KY",40831
+465,"Ottumwa Supercenter","https://www.walmart.com/store/667/tullahoma-tn/details","2111 N Jackson St","00:00",35.38984,"TN",37388
+467,"Jacksonville Neighborhood Market","https://www.walmart.com/store/5818/jacksonville-fl/details","10550 Old St. Augustine Rd","05:30",30.185352,"FL",32257
+468,"Louisville Supercenter","https://www.walmart.com/store/1170/louisville-ky/details","2793 Taylor Road Ext","00:00",38.102544,"KY",40272
+469,"Nashville Supercenter","https://www.walmart.com/store/4459/nashville-nc/details","1205 Eastern Ave","06:00",35.969754,"SD",27856
+470,"Economy Supercenter","https://www.walmart.com/store/5294/milford-ct/details","1500 Economy Way","00:00",40.658211,"PA",15005
+470,"Milford Store","https://www.walmart.com/store/4643/economy-pa/details","1365 Boston Post Rd","07:00",41.238029,"CT",6460
+473,"Bethlehem Store","https://www.walmart.com/store/3563/bethlehem-pa/details","3926 Linden St","00:00",40.672452,"PA",18020
+476,"Memphis Supercenter","https://www.walmart.com/store/1248/memphis-tn/details","898 S 2550 E","00:00",35.047606,"TN",38125
+478,"Queensbury Supercenter","https://www.walmart.com/store/4403/queensbury-ny/details","24 Quaker Ridge Blvd","09:00",43.319893,"NY",12804
+480,"Linden Store","https://www.walmart.com/store/3469/linden-nj/details","1601 W Edgar Rd","07:00",40.612665,"NJ",7036
+481,"Hardinsburg Store","https://www.walmart.com/store/760/hardinsburg-ky/details","1002 Old Us 60 E","06:00",37.7679224,"KY",40143
+481,"New Tazewell Store","https://www.walmart.com/store/1159/new-tazewell-tn/details","432 S Broad St","00:00",36.439395,"TN",37825
+482,"Eastman Supercenter","https://www.walmart.com/store/1018/eastman-ga/details","1099 Indian Dr","06:00",32.178956,"GA",31023
+483,"Surfside Beach Supercenter","https://www.walmart.com/store/574/surfside-beach-sc/details","2751 Beaver Run Blvd","00:00",33.64698,"SC",29575
+484,"North Reading Store","https://www.walmart.com/store/2660/north-reading-ma/details","72 Main St","07:00",28.540478,"MA",1864
+485,"Erwin Supercenter","https://www.walmart.com/store/1237/erwin-nc/details","590 E Jackson Blvd","00:00",35.320606,"VA",28339
+485,"Chesapeake Supercenter","https://www.walmart.com/store/5253/chesapeake-va/details","632 Grassfield Pkwy","00:00",36.721028,"NC",23322
+487,"Columbus Supercenter","https://www.walmart.com/store/495/columbus-ms/details","1913 Highway 45 N","10:00",33.518642,"MS",39705
+488,"Ocala Neighborhood Market","https://www.walmart.com/store/2792/wayne-wv/details","100 Mcginnis Dr","06:00",38.256797,"WV",25570
+488,"Wayne Supercenter","https://www.walmart.com/store/4434/ocala-fl/details","7855 Sw Hwy 200","06:00",29.087437,"FL",34476
+489,"Newton Neighborhood Market","https://www.walmart.com/store/2445/hatfield-pa/details","1515 Bethlehem Pike","00:00",40.291173,"PA",19440
+489,"Hatfield Supercenter","https://www.walmart.com/store/4432/newton-nc/details","1818 Northwest Blvd.","06:00",35.680662,"NC",28658
+494,"Jacksonville Supercenter","https://www.walmart.com/store/200/jacksonville-il/details","1941 W Morton Ave","00:00",39.71992,"IL",39532
+495,"Montgomery Neighborhood Market","https://www.walmart.com/store/4691/montgomery-al/details","8035 Vaughn Road","06:00",32.340452,"AL",36116
+496,"Abingdon Supercenter","https://www.walmart.com/store/154/abingdon-va/details","16032 Fifteen Mile Boulevard","00:00",38.5404591,"VA",24211
+498,"Florida City Supercenter","https://www.walmart.com/store/2727/florida-city-fl/details","33501 S Dixie Hwy","06:00",25.4576229,"FL",33034
+498,"Palm Springs Village Neighborhood Market","https://www.walmart.com/store/4441/palm-springs-village-fl/details","4400 Forest Hill Blvd.","00:00",26.650413,"FL",33406
+499,"Mesquite Supercenter","https://www.walmart.com/store/789/mesquite-tx/details","200 Us Highway 80 E","00:00",32.788794,"TX",39440
+500,"Southport Supercenter","https://www.walmart.com/store/1284/phenix-city-al/details","3700 Hwy 280/431 N.","00:00",32.501376,"AL",36867
+500,"Phenix City Supercenter","https://www.walmart.com/store/2772/southport-nc/details","1675 N Howe St","06:00",33.942955,"NC",28461
+502,"Albion Supercenter","https://www.walmart.com/store/1798/caro-mi/details","1121 E Caro Rd","00:00",43.500863,"MI",48723
+503,"Madison Neighborhood Market","https://www.walmart.com/store/5107/madison-tn/details","109 Gallatin Pike N","06:00",25.570918,"TN",37115
+504,"Turnersville Supercenter","https://www.walmart.com/store/1742/turnersville-nj/details","3501 Route 42","00:00",39.729508,"NJ",8012
+505,"Knoxville Neighborhood Market","https://www.walmart.com/store/3959/knoxville-tn/details","3120 Mckamey Road","06:00",35.976279,"TN",37921
+506,"Houston Store","https://www.walmart.com/store/411/houston-ms/details","660 E Madison St","06:00",37.134096,"MS",38851
+507,"Auburndale Supercenter","https://www.walmart.com/store/718/auburndale-fl/details","2120 Us Highway 92 W","00:00",28.060008,"FL",33823
+507,"Ozark Supercenter","https://www.walmart.com/store/740/ozark-al/details","1537 S Us Highway 231","00:00",31.4452218,"AL",36360
+508,"Richmond Pharmacy","https://www.walmart.com/store/2481/coal-township-pa/details","9300 State Route 61","00:00",40.7878265,"PA",17866
+508,"Coal Township Supercenter","https://www.walmart.com/store/4502/richmond-va/details","912 W Grace St","07:00",37.550407,"VA",23284
+509,"Dothan Supercenter","https://www.walmart.com/store/5191/forney-tx/details","3300 S Oates St","00:00",31.178814,"AL",36301
+511,"Albany Supercenter","https://www.walmart.com/store/588/albany-ga/details","2825 Ledo Rd","06:00",31.624849,"GA",31707
+511,"Waynesboro Supercenter","https://www.walmart.com/store/2754/waynesboro-ga/details","1500 N Liberty St","00:00",33.107622,"GA",30830
+512,"Ashtabula Supercenter","https://www.walmart.com/store/2359/ashtabula-oh/details","3551 N Ridge Rd E","00:00",41.883457,"OH",44004
+512,"Neptune Supercenter","https://www.walmart.com/store/5142/neptune-nj/details","3575 State Route 66","00:00",40.225071,"NJ",7753
+515,"Lexington Supercenter","https://www.walmart.com/store/1322/lexington-nc/details","160 Lowes Blvd","00:00",35.794678,"NC",27292
+517,"Hermantown Supercenter","https://www.walmart.com/store/1757/hermantown-mn/details","4740 Mall Dr","00:00",46.817374,"MN",47001
+518,"Little Rock Supercenter","https://www.walmart.com/store/4524/louisville-ky/details","5360 Dixie Hwy","00:00",38.157362,"KY",40216
+520,"Murfreesboro Neighborhood Market","https://www.walmart.com/store/5182/murfreesboro-tn/details","2478 New Salem Highway","06:00",35.814212,"TN",37128
+521,"Granite Falls Supercenter","https://www.walmart.com/store/4410/granite-falls-nc/details","4780 Hickory Blvd","00:00",35.781341,"AZ",28630
+522,"Booneville Supercenter","https://www.walmart.com/store/114/booneville-ms/details","300 Walmart Cir","05:00",34.677408,"MI",38829
+523,"Weaverville Supercenter","https://www.walmart.com/store/4334/weaverville-nc/details","25 Northridge Commons Pkwy","00:00",35.703335,"NC",28787
+525,"Reidsville Supercenter","https://www.walmart.com/store/3580/newark-oh/details","1624 Nc #14 Highway","00:00",36.3834062,"NC",27320
+526,"Newton Supercenter","https://www.walmart.com/store/154/abingdon-va/details","16032 Fifteen Mile Boulevard","00:00",36.714643,"VA",24211
+528,"Seabrook Supercenter","https://www.walmart.com/store/1762/seabrook-nh/details","700 Lafayette Road Unit #1","07:00",42.8947328,"NH",3874
+530,"Waynesboro Supercenter","https://www.walmart.com/store/3633/waynesboro-pa/details","12751 Washington Township Blvd","00:00",39.7427258,"PA",17268
+531,"Kingston Supercenter","https://www.walmart.com/store/1108/oak-grove-la/details","601 Frank Stottile Blvd","00:00",41.972503,"NY",12401
+532,"Whitesburg Store","https://www.walmart.com/store/552/whitesburg-ky/details","350 Whitesburg Plaza","06:00",33.940766,"KY",41858
+533,"Columbus Supercenter","https://www.walmart.com/store/2426/columbus-oh/details","5200 West Pointe Plaza","06:00",39.983447,"OH",43228
+534,"Miramar Supercenter","https://www.walmart.com/store/1511/miramar-fl/details","1800 South University Drive","06:00",25.9935839,"FL",33025
+536,"Alamosa Supercenter","https://www.walmart.com/store/4318/millbrook-al/details","145 Kelley Blvd","00:00",32.493877,"AL",36054
+537,"Kenton Supercenter","https://www.walmart.com/store/6165/gulfport-ms/details","1241 E Columbus St","06:00",40.657293,"OH",43326
+538,"Nicholasville Supercenter","https://www.walmart.com/store/1210/nicholasville-ky/details","1024 N Main St","00:00",37.899113,"KY",40356
+538,"Norfolk Supercenter","https://www.walmart.com/store/1811/norfolk-va/details","1170 N Military Hwy","00:00",36.862881,"VA",23502
+539,"Wimauma Supercenter","https://www.walmart.com/store/1203/wimauma-fl/details","4928 State Road 674","00:00",27.715137,"FL",32904
+541,"Toledo Supercenter","https://www.walmart.com/store/5028/toledo-oh/details","2925 Glendale Ave","06:00",41.60974,"OH",43614
+542,"Mount Pleasant Supercenter","https://www.walmart.com/store/4384/mount-pleasant-sc/details","3000 Proprietors Pl","00:00",32.861746,"SC",29466
+543,"Heath Supercenter","https://www.walmart.com/store/1594/heath-oh/details","911 Hebron Rd","00:00",40.028409,"OH",43056
+544,"Deptford Supercenter","https://www.walmart.com/store/3422/deptford-nj/details","2000 Clements Bridge Rd Ste 100","00:00",30.793455,"NJ",8096
+545,"Howell Supercenter","https://www.walmart.com/store/2195/howell-nj/details","4900 U.s. Hwy #9","00:00",40.131079,"NJ",7731
+546,"Summerville Supercenter","https://www.walmart.com/store/1037/summerville-sc/details","1317 N Main St Ste A1","00:00",33.034819,"SC",32765
+546,"Oviedo Neighborhood Market","https://www.walmart.com/store/5106/oviedo-fl/details","4255 Alafaya Trl","00:00",28.613388,"FL",29483
+547,"Englewood Supercenter","https://www.walmart.com/store/28/miami-ok/details","2931 S Mccall Rd","00:00",26.932272,"FL",34224
+549,"Orlando Neighborhood Market","https://www.walmart.com/store/5179/orlando-fl/details","496 S Bibb Ave","00:00",28.540478,"FL",32825
+550,"Port Richey Supercenter","https://www.walmart.com/store/1085/port-richey-fl/details","8701 Us Highway 19","06:00",28.283389,"FL",32119
+551,"Princeton Store","https://www.walmart.com/store/2171/princeton-nj/details","101 Nassau Park Blvd","07:00",40.303211,"MN",8540
+552,"Baltimore Store","https://www.walmart.com/store/5418/louisville-ky/details","112 Carroll Island Rd","06:00",39.336616,"MD",21220
+552,"Louisville Supercenter","https://www.walmart.com/store/3481/baltimore-md/details","2020 Bashford Manor Ln","06:00",38.199176,"KY",40218
+553,"Harleysville Store","https://www.walmart.com/store/2236/harleysville-pa/details","651 Main St","07:00",40.286715,"PA",19438
+554,"Glasgow Supercenter","https://www.walmart.com/store/711/glasgow-ky/details","2345 Happy Valley Rd","00:00",37.020959,"KY",42141
+555,"Eden Supercenter","https://www.walmart.com/store/1558/eden-nc/details","304 E Arbor Ln","00:00",35.138917,"NC",27288
+556,"Lexington Supercenter","https://www.walmart.com/store/858/cairo-ga/details","4051 Nicholasville Rd","00:00",37.979363,"KY",40503
+558,"Findlay Supercenter","https://www.walmart.com/store/1718/findlay-oh/details","2500 Tiffin Ave","00:00",41.057471,"OH",45840
+559,"Athens Neighborhood Market","https://www.walmart.com/store/5267/athens-ga/details","3130 Atlanta Hwy","06:00",33.943652,"GA",30606
+560,"Hazle Township Supercenter","https://www.walmart.com/store/2255/hazle-township-pa/details","761 Airport Rd","00:00",40.986535,"PA",18202
+561,"Raeford Supercenter","https://www.walmart.com/store/5787/raeford-nc/details","4545 Fayetteville Rd","06:00",35.009675,"NC",28376
+563,"Madison Heights Supercenter","https://www.walmart.com/store/2565/madison-heights-va/details","197 Madison Heights Sq","00:00",37.461433,"VA",24572
+568,"Merritt Island Supercenter","https://www.walmart.com/store/771/merritt-island-fl/details","1500 E Merritt Island Cswy","00:00",28.359625,"FL",46953
+568,"Marion Supercenter","https://www.walmart.com/store/1294/marion-in/details","3240 Southwestern","00:00",40.530175,"IN",32952
+570,"Tucson Supercenter","https://www.walmart.com/store/6174/summerville-sc/details","10635 Dorchester Road","00:00",32.9673153,"SC",29485
+571,"Havre Supercenter","https://www.walmart.com/store/2120/norwich-ny/details","5396 State Highway 12","00:00",42.496892,"NY",13815
+572,"Fort Worth Supercenter","https://www.walmart.com/store/4756/alabaster-al/details","9085 Hwy 119","06:00",33.212574,"AL",35007
+574,"Alcoa Supercenter","https://www.walmart.com/store/5408/indianapolis-in/details","1030 Hunters Crossin","00:00",35.771244,"TN",37701
+574,"Indianapolis Neighborhood Market","https://www.walmart.com/store/672/alcoa-tn/details","3805 S Keystone Ave","06:00",39.7110384,"IN",46227
+575,"Johnson City Supercenter","https://www.walmart.com/store/2962/pompano-beach-fl/details","2300 W Atlantic Blvd","00:00",26.22791,"FL",33069
+575,"Pompano Beach Supercenter","https://www.walmart.com/store/3829/johnson-city-tn/details","2915 W Market St","00:00",36.308937,"TN",37604
+576,"Boynton Beach Neighborhood Market","https://www.walmart.com/store/2396/boynton-beach-fl/details","12700 S Military Trl","10:00",26.489084,"FL",33436
+579,"Saint Albans Store","https://www.walmart.com/store/2332/saint-albans-vt/details","700 Tuckers Way","06:00",44.841719,"VT",5478
+581,"Tiffin Supercenter","https://www.walmart.com/store/1622/tiffin-oh/details","2801 W State Route 18","00:00",41.112105,"FL",44883
+582,"Winchester Supercenter","https://www.walmart.com/store/3344/winchester-va/details","501 Wal Mart Dr","00:00",39.193917,"VA",22603
+584,"Port St Lucie Neighborhood Market","https://www.walmart.com/store/7299/port-st-lucie-fl/details","902 Sw Saint Lucie West Blvd","undefined",27.316246,"FL",34986
+585,"Atlanta Supercenter","https://www.walmart.com/store/5146/san-antonio-tx/details","1801 Howell Mill Rd Nw","06:00",33.803041,"GA",30318
+589,"Mcdonough Supercenter","https://www.walmart.com/store/3201/mcdonough-ga/details","135 Willow Ln","00:00",33.432882,"MD",30253
+591,"Wooster Supercenter","https://www.walmart.com/store/1812/wooster-oh/details","3883 Burbank Rd","00:00",28.3438221,"OH",44691
+591,"Kissimmee Supercenter","https://www.walmart.com/store/2881/kissimmee-fl/details","1471 E Osceola Pkwy","00:00",40.847635,"FL",34744
+592,"Hamburg Supercenter","https://www.walmart.com/store/4612/hamburg-pa/details","1800 Tilden Ridge","00:00",40.564127,"PA",19526
+596,"New Albany Supercenter","https://www.walmart.com/store/153/new-albany-ms/details","202 Park Plaza Dr","00:00",38.74038,"MS",38652
+598,"Columbia Supercenter","https://www.walmart.com/store/4506/columbia-sc/details","10300 E Highway 350","00:00",34.1380983,"SC",29203
+599,"Washington Supercenter","https://www.walmart.com/store/3035/washington-dc/details","310 Riggs Road Ne","06:00",38.957531,"DC",20011
+601,"Athens Neighborhood Market","https://www.walmart.com/store/5267/athens-ga/details","11729 Imperial Hwy","06:00",33.943652,"GA",30606
+605,"Moon Township Supercenter","https://www.walmart.com/store/4644/moon-township-pa/details","7500 University Boulevard","06:00",40.515671,"PA",15108
+606,"Cincinnati Supercenter","https://www.walmart.com/store/1521/cincinnati-oh/details","7401 Samuell Blvd","06:00",39.224556,"OH",45239
+612,"Glendale Neighborhood Market","https://www.walmart.com/store/1465/danville-va/details","515 Mount Cross Rd","00:00",36.596821,"VA",24540
+615,"Jacksonville Supercenter","https://www.walmart.com/store/3864/jacksonville-nc/details","561 Yopp Rd","00:00",41.580699,"NC",28540
+616,"Delray Beach Supercenter","https://www.walmart.com/store/1589/delray-beach-fl/details","16205 S Military Trl","00:00",26.436375,"FL",33484
+617,"Branson Supercenter","https://www.walmart.com/store/4381/branson-mo/details","1101 Branson Hills Pkwy","00:00",36.670219,"MO",47129
+618,"Springfield Supercenter","https://www.walmart.com/store/2429/springfield-oh/details","2100 N Bechtle Ave","00:00",39.95167,"OH",45504
+619,"Brockport Supercenter","https://www.walmart.com/store/1993/brockport-ny/details","6265 Brockport Spencerport Rd","00:00",43.196977,"NY",14420
+620,"Ripley Supercenter","https://www.walmart.com/store/5160/jackson-mi/details","200 Academy Dr","00:00",38.829015,"WV",25271
+623,"Middleburg Supercenter","https://www.walmart.com/store/3308/middleburg-fl/details","1580 Branan Field Rd","00:00",26.348262,"FL",32068
+623,"Boca Raton Supercenter","https://www.walmart.com/store/3858/boca-raton-fl/details","22100 S State Road 7","07:00",30.105744,"FL",33428
+624,"Oak Grove Supercenter","https://www.walmart.com/store/3362/oak-grove-ky/details","14800 Fort Campbell Blvd","00:00",36.668028,"KY",42262
+625,"Staunton Supercenter","https://www.walmart.com/store/1344/staunton-va/details","1028 Richmond Avenue C.","00:00",38.134491,"VA",24401
+626,"Spring Hill Supercenter","https://www.walmart.com/store/967/spring-hill-fl/details","1485 Commercial Way","00:00",28.458334,"FL",34606
+627,"Avon Supercenter","https://www.walmart.com/store/2122/avon-ma/details","6990 E Shelby Dr","07:00",42.121102,"MA",2322
+627,"Memphis Neighborhood Market","https://www.walmart.com/store/5043/memphis-tn/details","30 Memorial Dr","00:00",35.022153,"TN",38125
+628,"Jacksonville Neighborhood Market","https://www.walmart.com/store/5005/jacksonville-fl/details","6855 Wilson Boulevard","06:00",30.271548,"FL",32210
+630,"Lumberton Neighborhood Market","https://www.walmart.com/store/7217/lumberton-nc/details","2503 West 5th Street","06:00",34.623515,"NC",28358
+631,"New Smyrna Beach Supercenter","https://www.walmart.com/store/1079/new-smyrna-beach-fl/details","3155 State Rd 44","00:00",29.015677,"FL",32168
+633,"West Union Supercenter","https://www.walmart.com/store/1368/west-union-oh/details","11217 State Route 41","00:00",38.784658,"SC",45693
+634,"Jackson Supercenter","https://www.walmart.com/store/393/jackson-tn/details","2171 S Highland Ave","00:00",30.189946,"TN",38301
+636,"Parkesburg Supercenter","https://www.walmart.com/store/2945/parkesburg-pa/details","100 Commons Dr","undefined",39.979913,"PA",19365
+638,"Union City Supercenter","https://www.walmart.com/store/2465/hephzibah-ga/details","1601 W Reelfoot Ave","00:00",36.413982,"TN",38261
+638,"Hephzibah Neighborhood Market","https://www.walmart.com/store/675/union-city-tn/details","3697 Windsor Spring Rd","00:00",33.3788255,"GA",30815
+639,"Salem Supercenter","https://www.walmart.com/store/1309/salem-va/details","1851 W Main St","00:00",37.2900499,"VA",24153
+642,"Eastanollee Supercenter","https://www.walmart.com/store/1122/eastanollee-ga/details","3886 Highway 17 S","04:00",34.548085,"GA",30538
+643,"Naples Supercenter","https://www.walmart.com/store/3417/naples-fl/details","6650 Collier Blvd","06:00",26.057251,"FL",34114
+644,"Florissant Supercenter","https://www.walmart.com/store/3289/west-jefferson-nc/details","1489 Mount Jefferson Rd","00:00",36.3893179,"NC",28694
+646,"Teterboro Supercenter","https://www.walmart.com/store/3159/teterboro-nj/details","1 Teterboro Landing Drive","00:00",35.008324,"NJ",7608
+646,"Chattanooga Supercenter","https://www.walmart.com/store/5251/chattanooga-tn/details","490 Greenway View Dr","06:00",40.8626458,"TN",37411
+647,"Eastlake Supercenter","https://www.walmart.com/store/1863/eastlake-oh/details","33752 Vine St","00:00",41.64066,"OH",44095
+648,"Wimauma Supercenter","https://www.walmart.com/store/1203/wimauma-fl/details","4928 State Road 674","00:00",27.715137,"FL",33598
+648,"Sevierville Neighborhood Market","https://www.walmart.com/store/5908/sevierville-tn/details","1185 Dolly Parton Pkwy","00:00",35.862115,"TN",37862
+649,"Andalusia Supercenter","https://www.walmart.com/store/1091/andalusia-al/details","1991 M. L. King Jr.","00:00",34.20044,"AL",36420
+651,"Franklin Supercenter","https://www.walmart.com/store/803/bogalusa-la/details","2125 N Morton St","00:00",39.502476,"IN",46131
+652,"Booneville Supercenter","https://www.walmart.com/store/114/booneville-ms/details","300 Walmart Cir","05:00",34.677408,"KY",38829
+652,"Lexington Neighborhood Market","https://www.walmart.com/store/4607/lexington-ky/details","3735 Palomar Centre Dr","06:00",38.004763,"MS",40513
+654,"Fort Oglethorpe Neighborhood Market","https://www.walmart.com/store/3635/fort-oglethorpe-ga/details","1155 Battlefield Pkwy","00:00",34.9547985,"GA",30742
+656,"North Augusta Supercenter","https://www.walmart.com/store/166/houston-mo/details","1201 Knox Ave","00:00",33.501291,"SC",29841
+657,"Hardinsburg Store","https://www.walmart.com/store/760/hardinsburg-ky/details","1002 Old Us 60 E","06:00",37.7679224,"KY",40143
+657,"Berlin Supercenter","https://www.walmart.com/store/2560/berlin-md/details","11416 Ocean Gtwy","00:00",38.339359,"MD",21811
+658,"Pittston Supercenter","https://www.walmart.com/store/2543/pittston-pa/details","390 Route 315 Hwy","00:00",26.191058,"PA",18640
+659,"Indianapolis Neighborhood Market","https://www.walmart.com/store/5804/indianapolis-in/details","5835 W. 10th St","06:00",33.65067,"IN",46224
+660,"Cape Coral Supercenter","https://www.walmart.com/store/819/cape-coral-fl/details","1619 Del Prado Blvd S","06:00",26.62088,"FL",33990
+664,"Laredo Store","https://www.walmart.com/store/554/laredo-tx/details","5610 San Bernardo Ave","00:00",27.552401,"TX",33073
+665,"Morgantown Supercenter","https://www.walmart.com/store/3215/morgantown-wv/details","5605 University Town Center Drive","00:00",39.6458746,"WV",26501
+666,"Clarksville Supercenter","https://www.walmart.com/store/1075/clarksville-tn/details","1680 Fort Campbell Blvd","00:00",36.580158,"NY",37042
+666,"Liverpool Supercenter","https://www.walmart.com/store/1831/liverpool-ny/details","8770 Dell Center Drive","00:00",43.189246,"TN",13090
+667,"Cleveland Supercenter","https://www.walmart.com/store/4285/cleveland-oh/details","3400 Steelyard Dr","06:00",41.461581,"OH",44109
+670,"Greenville Supercenter","https://www.walmart.com/store/1436/greenacres-fl/details","1501 Wagner Avenue","00:00",40.125971,"OH",45331
+673,"Lenoir Supercenter","https://www.walmart.com/store/1064/lenoir-nc/details","935 Blowing Rock Blvd","07:00",35.928486,"NC",28645
+673,"Stratford Store","https://www.walmart.com/store/2585/stratford-ct/details","150 Barnum Avenue Cutoff","00:00",41.2013398,"CT",6614
+674,"Marion Supercenter","https://www.walmart.com/store/1320/knoxville-tn/details","7420 Chapman Hwy","00:00",35.911682,"TN",37920
+678,"Urbana Supercenter","https://www.walmart.com/store/1239/urbana-oh/details","1840 E Us Highway 36","00:00",40.108516,"OH",43078
+678,"Lithia Springs Supercenter","https://www.walmart.com/store/3205/lithia-springs-ga/details","1100 Thornton Rd","00:00",33.7745093,"GA",30122
+680,"Ashland Supercenter","https://www.walmart.com/store/1448/ashland-oh/details","359 N Lexington Springmill Rd","00:00",40.862191,"OH",44805
+680,"Ontario Supercenter","https://www.walmart.com/store/1539/ontario-oh/details","1996 E Main St","00:00",40.762155,"OH",44906
+681,"Orange Supercenter","https://www.walmart.com/store/1284/phenix-city-al/details","3700 Hwy 280/431 N.","00:00",32.501376,"AL",36867
+681,"Phenix City Supercenter","https://www.walmart.com/store/2329/orange-ma/details","555 E Main St","07:00",42.588593,"MA",1364
+685,"Bowling Green Supercenter","https://www.walmart.com/store/299/bowling-green-ky/details","150 Walton Ave","00:00",36.948807,"KY",42104
+688,"Buford Supercenter","https://www.walmart.com/store/1314/buford-ga/details","3795 Buford Dr","00:00",34.08896,"GA",30519
+689,"Lynn Haven Supercenter","https://www.walmart.com/store/1032/lynn-haven-fl/details","2101 S Highway 77","06:00",30.2262571,"FL",32444
+690,"Lynchburg Neighborhood Market","https://www.walmart.com/store/3605/lynchburg-va/details","22088 Timberlake Rd","00:00",37.322584,"VA",24502
+690,"East Ridge Neighborhood Market","https://www.walmart.com/store/4692/east-ridge-tn/details","4150 Ringgold Road","06:00",34.995904,"TN",37412
+691,"Independence Supercenter","https://www.walmart.com/store/586/conway-sc/details","2709 Church St Ste A","00:00",33.857892,"SC",29526
+692,"Huber Heights Supercenter","https://www.walmart.com/store/1495/huber-heights-oh/details","7680 Brandt Pike","00:00",39.863295,"OH",45424
+695,"Ashland Supercenter","https://www.walmart.com/store/2795/ashland-va/details","145 Hill Carter Pkwy","00:00",37.755204,"VA",44460
+696,"Shelton Store","https://www.walmart.com/store/2163/shelton-ct/details","465 Bridgeport Ave","07:00",41.29143,"CT",6484
+696,"Schenectady Store","https://www.walmart.com/store/2264/schenectady-ny/details","1320 Altamont Ave","07:00",42.7854,"NY",12303
+699,"Waldorf Store","https://www.walmart.com/store/1717/waldorf-md/details","7800 Summer Creek Drive","06:00",38.639191,"MD",20601
+700,"Kingsport Neighborhood Market","https://www.walmart.com/store/5734/kingsport-tn/details","750 Lynn Garden Dr","00:00",36.562992,"TN",37660
+701,"Aiken Supercenter","https://www.walmart.com/store/514/aiken-sc/details","2035 Whiskey Rd","00:00",33.518173,"SC",29803
+703,"Mason Supercenter","https://www.walmart.com/store/1441/mason-oh/details","5303 Bowen Drive","00:00",39.311522,"MA",45040
+703,"Northborough Supercenter","https://www.walmart.com/store/2158/northborough-ma/details","200 Otis St","06:00",42.285163,"OH",1532
+704,"Plainfield Neighborhood Market","https://www.walmart.com/store/6470/plainfield-in/details","900 West Main Street","06:00",39.699876,"IN",46168
+705,"Chester Supercenter","https://www.walmart.com/store/1524/chester-va/details","12000 Iron Bridge Rd","06:00",37.350273,"VA",32534
+705,"Pensacola Neighborhood Market","https://www.walmart.com/store/6531/pensacola-fl/details","9301 Pine Forest Road","06:00",30.532744,"FL",23831
+706,"North Versailles Supercenter","https://www.walmart.com/store/2739/bay-minette-al/details","100 Walmart Dr","00:00",40.387242,"PA",15137
+706,"Bay Minette Supercenter","https://www.walmart.com/store/2588/north-versailles-pa/details","701 Mcmeans Ave","00:00",30.886011,"AL",36507
+707,"Palm Bay Supercenter","https://www.walmart.com/store/5455/palm-bay-fl/details","1040 Malabar Rd Se","00:00",27.996642,"FL",32907
+708,"Oxford Supercenter","https://www.walmart.com/store/809/oxford-al/details","92 Plaza Ln","00:00",33.599042,"AL",33063
+710,"Logan Supercenter","https://www.walmart.com/store/2610/logan-wv/details","77 Norman Morgan Blvd","00:00",37.860092,"WV",25601
+710,"Pinellas Park Neighborhood Market","https://www.walmart.com/store/3013/pinellas-park-fl/details","7500 66th St","06:00",27.839946,"FL",33781
+711,"Punxsutawney Supercenter","https://www.walmart.com/store/2664/punxsutawney-pa/details","21920 Route #119","00:00",40.927754,"PA",15767
+712,"Morristown Neighborhood Market","https://www.walmart.com/store/5468/morristown-tn/details","1757 W Andrew Johnson Hwy","09:00",36.206597,"TN",37814
+716,"Saint Marys Supercenter","https://www.walmart.com/store/836/saint-marys-ga/details","6586 Ga Highway 40 E","05:30",30.778436,"GA",31558
+717,"Lakeland Supercenter","https://www.walmart.com/store/779/lakeland-fl/details","3501 S Florida Ave","00:00",35.144791,"FL",33803
+720,"Tampa Supercenter","https://www.walmart.com/store/5036/tampa-fl/details","6192 Gunn Hwy","00:00",28.0617993,"PA",33625
+721,"Sugar Land Supercenter","https://www.walmart.com/store/4593/rock-hill-sc/details","4875 Old York Rd","00:00",34.979292,"SC",29732
+722,"Moon Township Supercenter","https://www.walmart.com/store/4644/moon-township-pa/details","7500 University Boulevard","00:00",40.515671,"PA",15108
+723,"Layton Supercenter","https://www.walmart.com/store/663/athens-tn/details","1815 Decatur Pike","00:00",35.4528545,"TN",37303
+724,"Columbus Neighborhood Market","https://www.walmart.com/store/4421/columbus-ga/details","7400 Blackmon Rd","06:00",42.882479,"GA",31909
+724,"Lancaster Supercenter","https://www.walmart.com/store/5027/lancaster-ny/details","4975 Transit Rd","00:00",32.552444,"NY",14043
+732,"Blue Ridge Supercenter","https://www.walmart.com/store/5812/blue-ridge-ga/details","97 Commerce Drive","00:00",32.227952,"GA",30513
+733,"Chadron Supercenter","https://www.walmart.com/store/1613/high-point-nc/details","2628 S Main St","00:00",35.925361,"NC",27263
+736,"West Berlin Supercenter","https://www.walmart.com/store/1807/west-berlin-nj/details","265 N Route 73","00:00",39.808346,"NJ",8091
+736,"Roanoke Supercenter","https://www.walmart.com/store/2312/roanoke-va/details","4807 Valley View Blvd Nw","00:00",37.30072,"VA",24012
+740,"Lagrange Supercenter","https://www.walmart.com/store/614/lagrange-ga/details","803 New Franklin Rd","00:00",33.059904,"GA",30240
+741,"Garland Supercenter","https://www.walmart.com/store/4657/mobile-al/details","6350 Cottage Hill Rd","06:00",30.641564,"AL",36609
+742,"Spring Lake Supercenter","https://www.walmart.com/store/4456/somerdale-nj/details","670 Lillington Hwy","00:00",35.174254,"NC",28390
+742,"Somerdale Supercenter","https://www.walmart.com/store/1312/spring-lake-nc/details","1 Coopertown Blvd","00:00",39.854824,"NJ",8083
+745,"Wilkes Barre Supercenter","https://www.walmart.com/store/1623/wilkes-barre-pa/details","2150 Wilkes Barre Twnsp Mktpl","06:00",32.207348,"PA",18702
+746,"Stuart Supercenter","https://www.walmart.com/store/619/dayton-tn/details","3034 Rhea County Hwy","00:00",35.460395,"TN",37321
+746,"Dayton Supercenter","https://www.walmart.com/store/1087/stuart-fl/details","4001 Se Federal Hwy","00:00",27.15702,"FL",34997
+747,"Cincinnati Supercenter","https://www.walmart.com/store/3749/cincinnati-oh/details","2801 Cunningham Rd","00:00",39.249276,"OH",45241
+747,"Loganville Supercenter","https://www.walmart.com/store/5252/loganville-ga/details","4221 Atlanta Hwy","00:00",33.840982,"GA",30052
+750,"Villa Rica Supercenter","https://www.walmart.com/store/2732/villa-rica-ga/details","600 Carrollton Villa Rica Hwy","00:00",33.720124,"GA",30180
+751,"Palmetto Supercenter","https://www.walmart.com/store/3370/palmetto-fl/details","508 10th St E","00:00",27.523773,"FL",34221
+752,"Clarion Supercenter","https://www.walmart.com/store/2540/clarion-pa/details","63 Perkins Rd","00:00",41.188708,"PA",16214
+753,"Lavale Supercenter","https://www.walmart.com/store/2027/lavale-md/details","12500 Country Club Mall Rd","00:00",39.624903,"MD",21502
+754,"Auburn Supercenter","https://www.walmart.com/store/1830/auburn-ny/details","297 Grant Ave","00:00",42.9540567,"NY",13021
+755,"Newark Supercenter","https://www.walmart.com/store/3580/newark-oh/details","1315 N 21st St","00:00",40.085707,"OH",43055
+756,"Thomasville Supercenter","https://www.walmart.com/store/1174/thomasville-al/details","34301 Highway 43","06:00",31.939592,"AL",36784
+756,"Oak Ridge Supercenter","https://www.walmart.com/store/1194/oak-ridge-tn/details","373 S Illinois Ave","00:00",36.0088,"TN",37830
+757,"New Hudson Supercenter","https://www.walmart.com/store/5048/new-hudson-mi/details","30729 Lyon Center Dr E","00:00",42.513919,"MI",48165
+758,"Mansfield Supercenter","https://www.walmart.com/store/5471/mansfield-oh/details","2485 Possum Run Rd","00:00",40.6917441,"OH",48604
+760,"Raynham Supercenter","https://www.walmart.com/store/5448/raynham-ma/details","160 Broadway","06:00",41.935116,"MA",2767
+763,"Gilmer Supercenter","https://www.walmart.com/store/146/gilmer-tx/details","1102 Us Highway 271 North","00:00",32.747175,"TX",39180
+766,"Dunwoody Supercenter","https://www.walmart.com/store/2360/dunwoody-ga/details","4301 Chef Menteur Highway","06:00",33.9333,"GA",30338
+767,"Houston Store","https://www.walmart.com/store/411/houston-ms/details","660 E Madison St","06:30",33.894702,"MS",38851
+770,"Socorro Supercenter","https://www.walmart.com/store/5492/socorro-nm/details","700 6th St N","06:00",34.0649845,"NM",47403
+773,"Shelby Supercenter","https://www.walmart.com/store/1034/shelby-nc/details","705 E Dixon Blvd","00:00",35.277323,"NC",28152
+773,"Fort Wayne Supercenter","https://www.walmart.com/store/4231/fort-wayne-in/details","7502 Southtown Crossing Blvd","06:00",41.014001,"IN",46816
+774,"Wilmington Supercenter","https://www.walmart.com/store/1289/wilmington-oh/details","2825 Progress Way","06:00",39.453074,"OH",45177
+774,"Commack Store","https://www.walmart.com/store/5202/commack-ny/details","85 Crooked Hill Rd","07:00",40.811786,"NY",11725
+775,"Boothwyn Store","https://www.walmart.com/store/296/dardanelle-ar/details","605 Conchester Hwy","07:00",39.852029,"PA",19061
+776,"Spartanburg Supercenter","https://www.walmart.com/store/1281/spartanburg-sc/details","2151 E Main St","06:00",34.972966,"VA",29307
+776,"Harrisonburg Supercenter","https://www.walmart.com/store/1726/harrisonburg-va/details","171 Burgess Road","00:00",38.435223,"SC",22801
+778,"Osprey Supercenter","https://www.walmart.com/store/5264/osprey-fl/details","13140 South Tamiami Trail","00:00",27.193124,"FL",13421
+780,"Cave Creek Supercenter","https://www.walmart.com/store/1068/sebastian-fl/details","2001 Us Highway #1","00:00",27.829339,"FL",32958
+781,"Nashville Supercenter","https://www.walmart.com/store/659/nashville-tn/details","7044 Charlotte Pike","06:00",36.131739,"TN",37209
+782,"Lawrenceville Neighborhood Market","https://www.walmart.com/store/2731/gainesville-ga/details","2892 Browns Bridge Rd","06:00",34.2801955,"GA",30504
+782,"Gainesville Neighborhood Market","https://www.walmart.com/store/3074/lawrenceville-ga/details","3059 Lawrenceville Hwy","06:00",33.922428,"GA",30044
+783,"Lexington Supercenter","https://www.walmart.com/store/881/lexington-sc/details","5556 Sunset Blvd","00:00",33.998141,"SC",29072
+783,"Elkhart Supercenter","https://www.walmart.com/store/2679/elkhart-in/details","175 Country Road #6 West","00:00",41.72195,"IN",46514
+784,"Newark Supercenter","https://www.walmart.com/store/5675/albuquerque-nm/details","6788 State Route 31 E","00:00",43.051597,"NY",14513
+785,"Alexandria Store","https://www.walmart.com/store/2194/alexandria-va/details","5885 Kingstowne Blvd","06:00",38.76932,"VA",22315
+785,"Lexington Supercenter","https://www.walmart.com/store/2628/lexington-ky/details","4051 Nicholasville Rd","00:00",37.979363,"KY",40503
+786,"Augusta Supercenter","https://www.walmart.com/store/1227/augusta-ga/details","1540 Military Rd","00:00",33.504905,"GA",30907
+786,"Niagara Falls Supercenter","https://www.walmart.com/store/1909/niagara-falls-ny/details","260 Bobby Jones Expy","00:00",43.094308,"NY",14304
+787,"Mechanicsburg Supercenter","https://www.walmart.com/store/1886/mechanicsburg-pa/details","6520 Carlisle Pike Ste 550","00:00",40.413229,"PA",17050
+790,"Richmond Pharmacy","https://www.walmart.com/store/4502/richmond-va/details","912 W Grace St","07:00",37.550407,"VA",23284
+793,"Bedford Supercenter","https://www.walmart.com/store/1026/bedford-in/details","3200 John Williams Blvd","00:00",38.865459,"IN",47421
+794,"Dickson Supercenter","https://www.walmart.com/store/264/dickson-tn/details","175 Beasley Dr","06:30",36.0599933,"TN",37055
+795,"Morrisville Neighborhood Market","https://www.walmart.com/store/4147/morrisville-nc/details","3560 Davis Dr","06:00",41.748743,"NC",27560
+796,"Fayetteville Neighborhood Market","https://www.walmart.com/store/3437/fayetteville-nc/details","3421 Murchison Rd","00:00",35.097961,"NC",2081
+797,"Archdale Neighborhood Market","https://www.walmart.com/store/7206/archdale-nc/details","10250 S. Main St.","06:00",35.898133,"NC",27263
+798,"Pennsville Store","https://www.walmart.com/store/2041/pennsville-nj/details","709 S Broadway","07:00",39.612001,"CA",8070
+801,"Virginia Beach Neighborhood Market","https://www.walmart.com/store/6226/virginia-beach-va/details","1832 Kempsville Road","06:00",33.702814,"VA",23464
+803,"Greensboro Supercenter","https://www.walmart.com/store/5320/greensboro-nc/details","1700 N 7 Hwy","06:00",36.002186,"NC",27406
+804,"Russellville Supercenter","https://www.walmart.com/store/736/russellville-ky/details","120 Sam Walton Dr","06:00",42.012119,"KY",42276
+807,"Wyomissing Store","https://www.walmart.com/store/1670/wyomissing-pa/details","1135 Berkshire Blvd","06:00",40.342207,"MO",19610
+809,"Centerville Supercenter","https://www.walmart.com/store/3366/centerville-ut/details","221 W Parrish Ln","00:00",40.919007,"UT",3865
+810,"North Canton Store","https://www.walmart.com/store/2865/spokane-wa/details","4572 Mega St Nw","00:00",40.870859,"OH",44720
+811,"Florence Neighborhood Market","https://www.walmart.com/store/5863/midwest-city-ok/details","1410 Florence Blvd","06:00",34.817941,"AL",35630
+814,"Madison Supercenter","https://www.walmart.com/store/798/marshall-il/details","567 Ivy Tech Dr","00:00",38.783942,"IN",47250
+817,"Beavercreek Supercenter","https://www.walmart.com/store/2124/beavercreek-oh/details","3360 Pentagon Blvd","00:00",35.046249,"OH",45431
+817,"Tega Cay Supercenter","https://www.walmart.com/store/3733/tega-cay-sc/details","1151 Stonecrest Blvd","00:00",39.772625,"SC",29708
+818,"Marietta Neighborhood Market","https://www.walmart.com/store/3069/marietta-ga/details","3101 Roswell Road","06:00",33.98091,"ID",30062
+820,"Superior Supercenter","https://www.walmart.com/store/1447/superior-wi/details","3705 Tower Ave","00:00",46.694534,"WI",6111
+821,"Connersville Supercenter","https://www.walmart.com/store/1729/connersville-in/details","4200 Western Ave","00:00",39.684407,"IN",47331
+824,"Port St Lucie Supercenter","https://www.walmart.com/store/3527/port-st-lucie-fl/details","1675 Nw Saint Lucie West Blvd","00:00",27.315215,"FL",34986
+825,"Zanesville Supercenter","https://www.walmart.com/store/3581/zanesville-oh/details","2850 Maysville Pike","00:00",39.891437,"OH",43701
+827,"Paris Supercenter","https://www.walmart.com/store/2934/paris-il/details","15150 Us Highway 150","00:00",39.601791,"IL",6810
+831,"Lumberton Supercenter","https://www.walmart.com/store/1677/new-hartford-ny/details","4765 Commercial Dr","00:00",43.095414,"NY",13413
+832,"Clarksville Supercenter","https://www.walmart.com/store/2704/randleman-nc/details","1021 High Point St","00:00",35.819671,"NC",27317
+833,"Paintsville Supercenter","https://www.walmart.com/store/1233/paintsville-ky/details","151 Shetland Dr","00:00",37.823253,"KY",41240
+835,"Skokie Supercenter","https://www.walmart.com/store/1998/skokie-il/details","3626 Touhy Ave","00:00",42.012834,"IL",6475
+837,"Richmond Supercenter","https://www.walmart.com/store/4191/richmond-va/details","4000 S Bolger Rd","06:00",37.602992,"VA",23230
+838,"Magee Supercenter","https://www.walmart.com/store/1192/magee-ms/details","1625 Simpson Hwy #49","00:00",31.8670328,"MS",28451
+838,"Leland Supercenter","https://www.walmart.com/store/4273/leland-nc/details","1112 New Pointe Blvd","00:00",34.209879,"NC",39111
+840,"Wilmington Supercenter","https://www.walmart.com/store/1392/wilmington-nc/details","5226 Sigmon Rd","00:00",34.242149,"WA",28403
+841,"Tullahoma Supercenter","https://www.walmart.com/store/666/sebring-fl/details","3525 Us Highway 27 N","00:00",27.513088,"FL",33870
+841,"Sebring Supercenter","https://www.walmart.com/store/667/tullahoma-tn/details","2111 N Jackson St","00:00",35.38984,"TN",37388
+842,"Lilburn Supercenter","https://www.walmart.com/store/1373/lilburn-ga/details","4004 Lawrenceville Hwy Nw","00:00",33.90295,"GA",30047
+842,"Hialeah Supercenter","https://www.walmart.com/store/1590/hialeah-fl/details","5851 Nw 177th St","00:00",25.935789,"FL",33015
+845,"Cypress Neighborhood Market","https://www.walmart.com/store/1288/roxboro-nc/details","1049 Durham Rd Ste A","06:00",36.376777,"NC",27573
+847,"Arnold Supercenter","https://www.walmart.com/store/1514/arnold-mo/details","2201 Michigan Ave","00:00",38.436729,"MO",37312
+848,"Clearwater Supercenter","https://www.walmart.com/store/2081/clearwater-fl/details","23106 Us Highway 19 N","00:00",44.291594,"FL",33765
+850,"Randleman Supercenter","https://www.walmart.com/store/2704/randleman-nc/details","1021 High Point St","00:00",35.819671,"NC",36054
+851,"Fort Myers Supercenter","https://www.walmart.com/store/304/springfield-tn/details","3360 Tom Austin Hwy","00:00",36.483717,"TN",37172
+851,"Springfield Supercenter","https://www.walmart.com/store/5034/fort-myers-fl/details","4770 Colonial Blvd","00:00",26.610823,"FL",33966
+852,"Bloomsburg Supercenter","https://www.walmart.com/store/1794/bloomsburg-pa/details","100 Lunger Dr","00:00",41.008702,"PA",17815
+854,"Newburgh Supercenter","https://www.walmart.com/store/5728/newburgh-in/details","8599 High Pointe Dr","00:00",37.978619,"IN",17044
+855,"Tigard Supercenter","https://www.walmart.com/store/5935/tigard-or/details","7600 Sw Dartmouth St.","05:00",45.4316286,"OR",44505
+856,"Cleveland Supercenter","https://www.walmart.com/store/2073/cleveland-oh/details","123 Saint Nazaire Rd","00:00",41.420513,"OH",44130
+857,"Aiken Supercenter","https://www.walmart.com/store/4487/aiken-sc/details","3581 Richland Ave W","00:00",33.561222,"SC",29801
+860,"Valley Supercenter","https://www.walmart.com/store/3455/richmond-ca/details","3501 20th Ave","00:00",32.835031,"AL",36854
+861,"Bedford Store","https://www.walmart.com/store/2246/bedford-nh/details","17 Colby Ct","05:30",42.96419,"NH",3110
+865,"Hoover Supercenter","https://www.walmart.com/store/1536/st-petersburg-fl/details","10237 Bay Pines Blvd","00:00",27.8158476,"FL",33708
+866,"Union City Supercenter","https://www.walmart.com/store/675/union-city-tn/details","541 Warrior Way","00:00",36.413982,"TN",38261
+867,"Ogdensburg Store","https://www.walmart.com/store/2092/ogdensburg-ny/details","3000 Ford Street Ext","06:00",44.708186,"TX",13669
+869,"Albany Supercenter","https://www.walmart.com/store/5797/albany-ga/details","262 Cordele Rd","06:00",31.578974,"GA",31705
+869,"Orlando Pharmacy","https://www.walmart.com/store/5997/orlando-fl/details","9600 Parksouth Court","undefined",28.428206,"FL",32837
+876,"State College Supercenter","https://www.walmart.com/store/1640/state-college-pa/details","1665 N Atherton St","00:00",40.810122,"PA",16803
+879,"Cincinnati Supercenter","https://www.walmart.com/store/2447/cincinnati-oh/details","2322 Ferguson Rd","07:00",39.128256,"OH",45238
+880,"Pensacola Neighborhood Market","https://www.walmart.com/store/38/idabel-ok/details","6670 Mobile Highway","06:00",30.477863,"FL",32526
+881,"Indianapolis Supercenter","https://www.walmart.com/store/2787/indianapolis-in/details","7325 N Keystone Ave","06:00",39.887629,"MT",46240
+882,"Duncansville Supercenter","https://www.walmart.com/store/4348/duncansville-pa/details","200 Commerce Dr","07:00",40.370349,"PA",16635
+883,"Quincy Supercenter","https://www.walmart.com/store/488/quincy-fl/details","1940 Pat Thomas Pkwy","06:00",30.556986,"FL",32351
+884,"North Lauderdale Supercenter","https://www.walmart.com/store/1851/north-lauderdale-fl/details","7900 W Mcnab Rd","06:00",26.205328,"FL",33068
+884,"Stuart Supercenter","https://www.walmart.com/store/3770/stuart-va/details","19265 Jeb Stuart Hwy","00:00",36.638695,"VA",24171
+885,"Daytona Beach Supercenter","https://www.walmart.com/store/4560/west-palm-beach-fl/details","6901 Okeechobee Blvd","06:00",26.710328,"FL",33411
+887,"Morton Supercenter","https://www.walmart.com/store/5157/morton-il/details","155 E Courtland St","00:00",40.630189,"IL",15044
+888,"La Mesa Neighborhood Market","https://www.walmart.com/store/7062/gastonia-nc/details","2324 S New Hope Rd","00:00",35.243593,"NC",28054
+890,"Rohnert Park Neighborhood Market","https://www.walmart.com/store/3786/buford-ga/details","3250 Sardis Church Rd","00:00",34.078384,"GA",30519
+891,"Walterboro Supercenter","https://www.walmart.com/store/1358/walterboro-sc/details","51 Silver Spring St","00:00",32.934593,"SC",29488
+891,"Providence Store","https://www.walmart.com/store/3301/providence-ri/details","2110 Bells Hwy","07:00",41.845607,"RI",2904
+892,"Springfield Supercenter","https://www.walmart.com/store/1967/springfield-ma/details","1105 Boston Rd","07:00",42.136021,"MA",1119
+893,"Auburn Neighborhood Market","https://www.walmart.com/store/5062/auburn-al/details","2047 E University Dr","06:00",38.4342477,"AL",36830
+895,"Anderson Supercenter","https://www.walmart.com/store/644/anderson-sc/details","651 Highway 28 Byp","06:00",34.487945,"SC",29624
+896,"Little Rock Supercenter","https://www.walmart.com/store/5706/little-rock-ar/details","700 Bowman Rd","00:00",34.748243,"AR",11749
+897,"Garfield Supercenter","https://www.walmart.com/store/5752/garfield-nj/details","174 Passaic St","00:00",40.866688,"NJ",7026
+898,"Horn Lake Supercenter","https://www.walmart.com/store/6964/horn-lake-ms/details","4150 Goodman Road West","00:00",34.964734,"MS",38637
+899,"Harborcreek Supercenter","https://www.walmart.com/store/3281/harborcreek-pa/details","5741 Buffalo Rd","00:00",42.159486,"AR",16421
+900,"Titusville Supercenter","https://www.walmart.com/store/649/titusville-fl/details","3175 Cheney Hwy","00:00",28.555379,"FL",32780
+901,"Harborcreek Supercenter","https://www.walmart.com/store/3281/harborcreek-pa/details","5741 Buffalo Rd","00:00",42.159486,"PA",33071
+902,"Cochran Supercenter","https://www.walmart.com/store/7246/cochran-ga/details","366 Hwy 26 East","06:00",32.400301,"GA",31701
+903,"Birmingham Supercenter","https://www.walmart.com/store/2713/birmingham-al/details","5919 Trussville Crossings Pkwy","00:00",33.638953,"SC",35235
+903,"Columbia Supercenter","https://www.walmart.com/store/4506/columbia-sc/details","321 Killian Rd","00:00",34.1380983,"AL",29203
+904,"Holly Springs Supercenter","https://www.walmart.com/store/303/holly-springs-ms/details","950 Mackie Dr","06:00",38.037703,"MS",38635
+904,"Lexington Supercenter","https://www.walmart.com/store/3894/lexington-ky/details","2350 Grey Lag Way Road","06:00",34.7466316,"KY",40509
+905,"Daphne Supercenter","https://www.walmart.com/store/934/daphne-al/details","27520 Us Highway 98","00:00",30.6250365,"AL",36526
+905,"Clearwater Neighborhood Market","https://www.walmart.com/store/5670/clearwater-fl/details","2171 Gulf To Bay Blvd. Building #10","06:00",27.959261,"FL",33765
+906,"Meridian Neighborhood Market","https://www.walmart.com/store/3990/meridian-ms/details","3310-a Highway 39 North","06:00",40.0262886,"MS",39301
+906,"West Brownsville Supercenter","https://www.walmart.com/store/4501/west-brownsville-pa/details","134 Daniel Kendall Dr","00:00",32.389466,"PA",15417
+907,"Taylors Supercenter","https://www.walmart.com/store/1244/taylors-sc/details","3027 Wade Hampton Blvd","00:00",34.90851,"SC",32218
+907,"Jacksonville Supercenter","https://www.walmart.com/store/3702/jacksonville-fl/details","13227 City Square Dr","06:00",30.477426,"FL",29687
+909,"Morgantown Supercenter","https://www.walmart.com/store/2083/morgantown-wv/details","3711 S Taylor Dr","00:00",39.578766,"WV",26508
+911,"Bluffton Supercenter","https://www.walmart.com/store/2819/bluffton-in/details","2100 N Main St","00:00",40.772792,"IN",46714
+913,"Brownsburg Supercenter","https://www.walmart.com/store/2788/brownsburg-in/details","400 W Northfield Dr","00:00",39.859194,"IN",46112
+914,"Columbia Supercenter","https://www.walmart.com/store/4506/columbia-sc/details","205 Deadrick Rd","00:00",34.1380983,"SC",29203
+915,"Leeds Supercenter","https://www.walmart.com/store/562/leeds-al/details","8551 Whitfield Ave","00:00",33.562105,"NJ",35094
+916,"Biloxi Supercenter","https://www.walmart.com/store/5245/san-antonio-tx/details","2681 Ct Switzer Sr Dr","00:00",30.392334,"MS",39531
+918,"Easley Supercenter","https://www.walmart.com/store/631/easley-sc/details","115 Rolling Hills Cir","00:00",34.8284813,"SC",29640
+918,"Tampa Supercenter","https://www.walmart.com/store/5964/tampa-fl/details","1720 E Hillsborough Ave","06:00",27.996875,"FL",33610
+919,"Chattanooga Supercenter","https://www.walmart.com/store/3660/chattanooga-tn/details","3550 Cummings Hwy","00:00",35.015665,"TN",37419
+922,"Woodstock Supercenter","https://www.walmart.com/store/5275/woodstock-ga/details","6435 Bells Ferry Rd","00:00",34.112862,"GA",30189
+923,"Pinellas Park Neighborhood Market","https://www.walmart.com/store/5385/defiance-oh/details","6900 Us Highway 19 N","06:00",27.834467,"FL",33781
+923,"Defiance Supercenter","https://www.walmart.com/store/4669/pinellas-park-fl/details","1804 N Clinton St","00:00",41.305318,"OH",43512
+924,"Cape Coral Supercenter","https://www.walmart.com/store/819/cape-coral-fl/details","1619 Del Prado Blvd S","00:00",34.157361,"FL",33990
+925,"Dalton Supercenter","https://www.walmart.com/store/7251/fort-worth-tx/details","2545 E Walnut Ave","00:00",34.76783,"GA",30721
+926,"Washington Supercenter","https://www.walmart.com/store/360/cushing-ok/details","99 H Street Nw","06:00",38.900475,"DC",20001
+927,"Duncansville Supercenter","https://www.walmart.com/store/4348/duncansville-pa/details","200 Commerce Dr","00:00",40.370349,"PA",16635
+928,"Biloxi Supercenter","https://www.walmart.com/store/1088/biloxi-ms/details","2681 Ct Switzer Sr Dr","00:00",30.392334,"MS",39531
+929,"Moraine Supercenter","https://www.walmart.com/store/5104/moraine-oh/details","1701 W Dorothy Ln","06:00",39.711341,"CA",45439
+931,"Natchitoches Supercenter","https://www.walmart.com/store/170/natchitoches-la/details","925 Keyser Ave","00:00",31.750245,"LA",36695
+933,"Cranberry Township Supercenter","https://www.walmart.com/store/1770/cranberry-township-pa/details","20245 Route 19","00:00",40.68772,"PA",16066
+933,"Bowling Green Supercenter","https://www.walmart.com/store/1913/bowling-green-oh/details","131 W Gypsy Lane Rd","00:00",41.354048,"OH",43402
+934,"Knoxville Store","https://www.walmart.com/store/4167/knoxville-tn/details","2501 University Commons Way","00:00",35.950968,"VT",37919
+935,"Union Store","https://www.walmart.com/store/3292/union-nj/details","900 Springfield Rd","07:00",36.040217,"NJ",7083
+935,"Greensboro Neighborhood Market","https://www.walmart.com/store/5393/greensboro-nc/details","1050 Alamance Church Rd","06:00",40.6870876,"NC",27406
+936,"Columbus Supercenter","https://www.walmart.com/store/5210/wylie-tx/details","1221 Georgesville Rd","06:00",39.9269568,"OH",43228
+938,"Cape Coral Supercenter","https://www.walmart.com/store/819/cape-coral-fl/details","1619 Del Prado Blvd S","07:00",26.62088,"FL",33990
+941,"Lisbon Supercenter","https://www.walmart.com/store/2854/lisbon-ct/details","1916 Center Point Pkwy","00:00",41.583495,"CT",6351
+941,"Birmingham Neighborhood Market","https://www.walmart.com/store/5100/birmingham-al/details","180 River Rd","06:00",33.637368,"AL",35215
+942,"Middletown Supercenter","https://www.walmart.com/store/3103/goddard-ks/details","2900 Towne Blvd","00:00",39.488698,"OH",45044
+943,"Mill Hall Supercenter","https://www.walmart.com/store/2528/mill-hall-pa/details","167 Hogan Blvd","00:00",41.116694,"PA",17751
+944,"Salem Supercenter","https://www.walmart.com/store/2142/salem-nh/details","326 N Broadway","00:00",42.801879,"NH",3079
+944,"White Lake Supercenter","https://www.walmart.com/store/2700/white-lake-mi/details","9190 Highland Rd","07:00",42.660563,"MI",48386
+945,"Mankato Supercenter","https://www.walmart.com/store/1473/mankato-mn/details","1881 E Madison Ave","00:00",44.163908,"MN",46038
+946,"Staunton Supercenter","https://www.walmart.com/store/1344/staunton-va/details","1028 Richmond Avenue C.","00:00",38.134491,"VA",24401
+948,"Salem Supercenter","https://www.walmart.com/store/5482/eatonton-ga/details","1309 E Hackberry Street","00:00",38.612933,"IN",47167
+949,"Chantilly Supercenter","https://www.walmart.com/store/5969/chantilly-va/details","4368 Chantilly Shopping Center Dr","06:00",38.889104,"VA",20151
+950,"Largo Neighborhood Market","https://www.walmart.com/store/1887/montoursville-pa/details","9020 Ulmerton Road","06:00",27.893098,"FL",33771
+954,"Plantation Neighborhood Market","https://www.walmart.com/store/3899/goose-creek-sc/details","215 St James Avenue","00:00",33.008051,"SC",29445
+956,"Greenville Neighborhood Market","https://www.walmart.com/store/65/sullivan-mo/details","2014 Wade Hampton Blvd","00:00",34.882808,"SC",29615
+959,"Sterling Heights Supercenter","https://www.walmart.com/store/2559/sterling-heights-mi/details","33201 Van Dyke Ave","00:00",42.538338,"MI",48312
+961,"Glen Allen Supercenter","https://www.walmart.com/store/1523/glen-allen-va/details","11400 West Broad Street Road","00:00",37.652043,"VA",23060
+961,"Saginaw Supercenter","https://www.walmart.com/store/5097/saginaw-mi/details","5650 Bay Rd","00:00",43.48974,"MI",48604
+963,"Chester Store","https://www.walmart.com/store/352/chester-il/details","Hwy 150/2206 State S","06:00",37.925334,"IL",45005
+966,"Athens Neighborhood Market","https://www.walmart.com/store/5267/athens-ga/details","3130 Atlanta Hwy","06:00",33.177006,"GA",30606
+967,"Atlanta Supercenter","https://www.walmart.com/store/3008/atlanta-ga/details","835 Martin Luther King Jr Drive Nw","07:00",33.755828,"CA",30314
+968,"Newport News Supercenter","https://www.walmart.com/store/1773/newport-news-va/details","12401 Jefferson Ave","06:00",29.5164259,"VA",23602
+970,"Athens Supercenter","https://www.walmart.com/store/661/athens-al/details","1011 Us Highway 72 E","00:00",34.78855,"AL",13662
+975,"Pasadena Supercenter","https://www.walmart.com/store/2724/pasadena-tx/details","1107 Shaver St","00:00",29.693435,"TX",43402
+976,"Longview Supercenter","https://www.walmart.com/store/5853/longview-wa/details","3715 Ocean Beach Hwy 2","06:00",46.153058,"WA",33647
+978,"Indianapolis Supercenter","https://www.walmart.com/store/5443/indianapolis-in/details","4650 S Emerson Ave","06:00",39.699603,"IN",46203
+979,"Oberlin Supercenter","https://www.walmart.com/store/5309/oberlin-oh/details","46440 Us Route 20","00:00",41.266577,"OH",44074
+980,"Gloucester Supercenter","https://www.walmart.com/store/1759/gloucester-va/details","6819 Walton Ln","00:00",37.400469,"VA",23061
+982,"Waldorf Store","https://www.walmart.com/store/1717/waldorf-md/details","11930 Acton Ln","07:00",38.639191,"MD",20601
+982,"Weymouth Store","https://www.walmart.com/store/3200/weymouth-ma/details","740 Middle St","06:00",42.199521,"MA",2188
+984,"Atlanta Supercenter","https://www.walmart.com/store/3709/atlanta-ga/details","13490 Beach Blvd","06:00",33.719115,"GA",30316
+993,"Ocala Supercenter","https://www.walmart.com/store/5326/ocala-fl/details","9570 Sw Highway 200","00:00",29.05658,"CA",34481
+994,"Thomaston Supercenter","https://www.walmart.com/store/1112/thomaston-ga/details","855 N Church St","00:00",32.912532,"GA",30286
+995,"Shelby Supercenter","https://www.walmart.com/store/1034/shelby-nc/details","705 E Dixon Blvd","00:00",37.663493,"NC",28152
+996,"Anderson Neighborhood Market","https://www.walmart.com/store/2634/gorham-nh/details","561 Main St","06:00",44.426709,"NH",3581
+996,"Gorham Supercenter","https://www.walmart.com/store/4443/anderson-sc/details","2003 E Greenville St","00:00",34.54509,"SC",29621
+999,"Fargo Supercenter","https://www.walmart.com/store/3294/louisville-ky/details","7101 Cedar Springs Blvd","00:00",38.142543,"KY",40291
