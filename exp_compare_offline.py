@@ -10,9 +10,10 @@ folder = "pre_rs/"
 query_time_dict = defaultdict(list)
 QA_query_time_dict = defaultdict(list)
 process_time_dict = defaultdict(list)
+compare_mark_list = ['S',  'SJ', 'SA', 'SJA', 'SP', 'SPJ']
 for mark in mark_sql_list.keys():
     sql_list = mark_sql_list[mark]
-    if(mark.startswith("SS") or mark.startswith("J") or "V" in mark or "ID" in mark):
+    if mark not in compare_mark_list:
         continue
     for i, sql in enumerate(sql_list):
         filename = f"{folder}{db}-{mark}-{i}-time.csv"
@@ -46,7 +47,7 @@ folder = "rs/"
 
 rs = defaultdict(list)
 for mark in mark_sql_list.keys():
-    if(mark.startswith("SS") or mark.startswith("J") or "V" in mark or "ID" in mark):
+    if mark not in compare_mark_list:
         continue
     for i, name in enumerate(name_list):
         process_time = 0

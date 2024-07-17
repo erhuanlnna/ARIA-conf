@@ -1,7 +1,7 @@
 
 from test_queries import *
-import pulp
-import cplex
+#import pulp
+#import cplex
 from pandas.errors import EmptyDataError
 from ortools.linear_solver import pywraplp
 

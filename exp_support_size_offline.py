@@ -5,7 +5,7 @@ str_var_list = ["", "_ar_support_2", "_ar_support_4", "_ar_support_6", "_ar_supp
 name_list = ["", "VPricer", "PVPricer", "QAPricer",f"MyPricer"]
 baseline_name_list  = ["Query", "VBP", "PBP", "QIRANA", "ARIA"]
 index_list = mark_sql_list.keys()
-
+compare_mark_list = ['S',  'SJ', 'SA', 'SJA', 'SP', 'SPJ']
 folder = "pre_rs/"
 
 query_time_dict = defaultdict(list)
@@ -14,7 +14,7 @@ process_time_dict = defaultdict(list)
 for var_str in str_var_list:
     for mark in mark_sql_list.keys():
         sql_list = mark_sql_list[mark]
-        if(mark.startswith("SS") or mark.startswith("J") or "V" in mark or "ID" in mark):
+        if mark not in compare_mark_list:
             continue
         # only focus on S+SJ+SA+SAJ++SP+SPJ queries
         for i, sql in enumerate(sql_list):
@@ -46,7 +46,7 @@ for i, var_str in enumerate(str_var_list):
     cnt = 0
     print("----------------")
     for mark in mark_sql_list.keys():
-        if(mark.startswith("SS") or mark.startswith("J") or "V" in mark or "ID" in mark):
+        if mark not in compare_mark_list:
             continue
         query_time = my_query_time_dict[f"{mark}{var_str}"][-1]
         process_time = 0
@@ -72,21 +72,6 @@ df = pd.DataFrame(avg_rs, index = var_list)
 df.to_csv(file_name, float_format='%.3f')  
 print(df)
 
-
-for mark in mark_sql_list.keys():
-    if(mark.startswith("SS") or mark.startswith("J") or "V" in mark or "ID" in mark):
-        continue
-    l1 = []
-    l2 = []
-    for i, var_str in enumerate(str_var_list):
-        query_time = my_query_time_dict[f"{mark}{var_str}"][-1]
-        process_time = 0
-        filename = f"{folder}{db}-MyPricer-{mark}{var_str}.csv"
-        df = pd.read_csv(filename, header=None, na_values=['\\N'])
-        process_time = float(df.values[-1][-2])
-        price = float(df.values[-1][-1])
-        l1.append(price)
-    print(mark, l1)
         
         
         

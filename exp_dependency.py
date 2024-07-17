@@ -15,7 +15,7 @@ for i, name in enumerate(pricer_name_list):
     
     distinct_rs = df1.iloc[:-1, 2]
     orgin_rs = df2.iloc[:-1, 2]
-    print(orgin_rs)
+    #print(orgin_rs)
     ratio_rs = [distinct_rs[i]/orgin_rs[i] for i in range(len(distinct_rs))]
     rs[baseline_name_list[i]] = ratio_rs
     

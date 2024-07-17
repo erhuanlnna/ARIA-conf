@@ -31,17 +31,6 @@ for mark in mark_sql_list.keys():
     time_list = []
     price_list = []
     for i, sql in enumerate(sql_list):
-        start_time = time.time()
-        for _ in range(repeat_num):
-            price = pricer.price_SQL_query(sql)
-        end_time = time.time()
-        time_list.append((start_time - end_time) / (-repeat_num))
-        price_list.append(price)
-    # print(time_list)
-    # print(price_list)
-    time_list = []
-    price_list = []
-    for i, sql in enumerate(sql_list):
         o_results = load_pre_query_results(sql, mark, i, db)
         print(len(o_results))
         query_tables = parse_sql_statements(sql)

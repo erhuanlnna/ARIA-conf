@@ -23,8 +23,12 @@ for table in table_list:
 #print(table_size_list, support_size_list)
 pricer= Pricer(db, table_size_list, support_size_list, history, tuple_price_list, table_fields, domain_list, r_support, history_aware)
 
-
+compare_marks = ['S',  'SJ',  'SP',  'SPJ',  'SJA', 'SA']
+compare_db_list = ['tpch2g', 'tpch3g', 'tpch4g', 'tpch5g', 'ssb2g', 'ssb3g', 'ssb4g', 'ssb5g']
 for mark in mark_sql_list.keys():
+    # only run the basic queries when the database is in compare_db_list or size != 0
+    if (size or db in compare_db_list) and mark not in compare_marks:
+        continue
     #if("ID"  not in mark):
     #    continue
     # if("J" in mark):

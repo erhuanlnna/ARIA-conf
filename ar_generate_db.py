@@ -5,19 +5,10 @@ from sqlalchemy import create_engine
 import pandas as pd 
 import numpy as np
 
-db = "walmart"       
-# import argparse
-# parser = argparse.ArgumentParser()
+db = "walmart"     
+s_size = 1000  
 
-# # Add arguments
-# parser.add_argument('-d', '--db', help='The database')
-# # Parse the arguments
-# args = parser.parse_args()
-
-# # Access the parsed arguments
-# db = args.db
 table_list, table_size_list, table_fields, primary_fields,primary_domains = get_pre_fields_of_all_tables(database=db)
-s_size = 1000 
 num_list = {}
 data_size = 0
 for table in table_list:
@@ -49,7 +40,7 @@ for table in table_list:
                 new_df[col] = 'new_' + df[col].astype(str)  # 确保即使已经是字符串也加上前缀  
     new_df['aID'] = [i for i in range(table_size_list[table] + 1, num + 1 + table_size_list[table])] 
     primary_str = ",".join(primary_fields[table])
-    print(new_df.head(11))
+    #print(new_df.head(11))
     for v in var_list:
         K = int(num*v/10)
         df_to_insert = new_df.head(K) 
@@ -64,8 +55,8 @@ conn = pymysql.connect(host = host, user=user, passwd=password, database=db)
 cursor = conn.cursor()
 sql = f"use {db}"
 
-for sql in sql_index_list:
-    print(sql)
+#for sql in sql_index_list:
+#    print(sql)
 for sql in sql_index_list:
     cursor.execute(sql)
 cursor.close()
