@@ -1,6 +1,9 @@
 We describe how to employ ARIA to price the select-project-join-aggregate (SPJA) queries on the MySQL database server.
 This README provides instructions on how to set up and run the default experiments, including data preparation, environment setup, and execution of experiments. Additionally, we guide you through various experiment variations, such as adjusting the support size, scale factor, and pricing queries with different selectivities, limit numbers, distinct, and aggregate queries.
 
+# Revision file 
+We have added the PDF document, i.e., the revision file, to include the moved experiments in the original paper.
+
 # Environment setup  \&  Data preparation
 
 ## Environment setup
