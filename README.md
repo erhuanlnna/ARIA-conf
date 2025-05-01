@@ -1,3 +1,4 @@
+This repository provides the code of the paper "On Scalable Query Pricing in Data Marketplaces" in ICDE 2025.
 We describe how to employ ARIA to price the select-project-join-aggregate (SPJA) queries on the MySQL database server.
 This README provides instructions on how to set up and run the default experiments, including data preparation, environment setup, and execution of experiments. Additionally, we guide you through various experiment variations, such as adjusting the support size, scale factor, and pricing queries with different selectivities, limit numbers, distinct, and aggregate queries.
 
