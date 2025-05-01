@@ -21,6 +21,7 @@ Before running any experiments, ensure your environment is correctly set up. Thi
   - Sqlglot
   - sqlalchemy
   - ortools 
+
 All libraries are provided in the `requirements.txt`.
 Make sure Python, MySQL, and other libraries are properly installed and configured on your system. It's also recommended to create a virtual environment for Python dependencies to avoid any conflicts with other projects.
 
